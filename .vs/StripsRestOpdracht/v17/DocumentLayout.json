@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1DE852-AA44-45ED-9D06-983DFA109B45}|StripsRestOpdracht\\StripsRest.csproj|c:\\users\\loote\\source\\repos\\stripsrestopdracht\\stripsrestopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1DE852-AA44-45ED-9D06-983DFA109B45}|StripsRestOpdracht\\StripsRest.csproj|solutionrelative:stripsrestopdracht\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099FC02A-68A3-4399-B267-FF070BCB97FC}|StripsDL\\StripsDL.csproj|c:\\users\\loote\\source\\repos\\stripsrestopdracht\\stripsdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099FC02A-68A3-4399-B267-FF070BCB97FC}|StripsDL\\StripsDL.csproj|solutionrelative:stripsdl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654893BF-458E-44A0-84BB-3168D6458392}|StripsBL\\StripsBL.csproj|c:\\users\\loote\\source\\repos\\stripsrestopdracht\\stripsbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{654893BF-458E-44A0-84BB-3168D6458392}|StripsBL\\StripsBL.csproj|solutionrelative:stripsbl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F15F9A2-898A-4E02-97EA-6ECA8FB93616}|StripsClientWPFStripView\\StripsClientWPFStripView.csproj|c:\\users\\loote\\source\\repos\\stripsrestopdracht\\stripsclientwpfstripview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2F15F9A2-898A-4E02-97EA-6ECA8FB93616}|StripsClientWPFStripView\\StripsClientWPFStripView.csproj|solutionrelative:stripsclientwpfstripview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F15F9A2-898A-4E02-97EA-6ECA8FB93616}|StripsClientWPFStripView\\StripsClientWPFStripView.csproj|c:\\users\\loote\\source\\repos\\stripsrestopdracht\\stripsclientwpfstripview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F15F9A2-898A-4E02-97EA-6ECA8FB93616}|StripsClientWPFStripView\\StripsClientWPFStripView.csproj|solutionrelative:stripsclientwpfstripview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsRestOpdracht\\Program.cs",
+              "RelativeDocumentMoniker": "StripsRestOpdracht\\Program.cs",
+              "ToolTip": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsRestOpdracht\\Program.cs",
+              "RelativeToolTip": "StripsRestOpdracht\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:32:11.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsDL\\Program.cs",
+              "RelativeDocumentMoniker": "StripsDL\\Program.cs",
+              "ToolTip": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsDL\\Program.cs",
+              "RelativeToolTip": "StripsDL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:31:49.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsBL\\Program.cs",
+              "RelativeDocumentMoniker": "StripsBL\\Program.cs",
+              "ToolTip": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsBL\\Program.cs",
+              "RelativeToolTip": "StripsBL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:31:30.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsClientWPFStripView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StripsClientWPFStripView\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsClientWPFStripView\\MainWindow.xaml",
+              "RelativeToolTip": "StripsClientWPFStripView\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T20:30:57.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsClientWPFStripView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StripsClientWPFStripView\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Loote\\source\\repos\\StripsRestOpdracht\\StripsClientWPFStripView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StripsClientWPFStripView\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:30:57.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
