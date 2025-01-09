@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "OpWsKVqq4gqCgJYlNVhHTlG8EL+dPvMDQZ11zuYp7kc=",
+  "Hash": "AHMd57+RctLtqgBtHe5K5jqhU32Fn07j8LAQ+4ODjvk=",
   "Source": "StripsRest",
   "BasePath": "_content/StripsRest",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

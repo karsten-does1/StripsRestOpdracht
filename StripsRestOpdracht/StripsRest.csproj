@@ -15,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="7.1.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\StripsBL\StripsBL.csproj" />
+    <ProjectReference Include="..\StripsDL\StripsDL.csproj" />
+  </ItemGroup>
+
 </Project>

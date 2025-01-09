@@ -151,3 +151,5 @@ C:\Users\Loote\source\repos\StripsRestOpdracht\StripsBL\obj\Debug\net8.0\refint\
 C:\Users\Loote\source\repos\StripsRestOpdracht\StripsBL\obj\Debug\net8.0\StripsBL.pdb
 C:\Users\Loote\source\repos\StripsRestOpdracht\StripsBL\obj\Debug\net8.0\StripsBL.genruntimeconfig.cache
 C:\Users\Loote\source\repos\StripsRestOpdracht\StripsBL\obj\Debug\net8.0\ref\StripsBL.dll
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsBL\bin\Debug\net8.0\StripsDL.dll
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsBL\bin\Debug\net8.0\StripsDL.pdb

@@ -1,0 +1,179 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "StripsRest",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Strips/{id}": {
+      "get": {
+        "tags": [
+          "Strips"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Strips": {
+      "post": {
+        "tags": [
+          "Strips"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Strip"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Strip"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Strip"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Auteur": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "naam": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "strips": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Strip"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Reeksen": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "naam": {
+            "type": "string",
+            "nullable": true
+          },
+          "strips": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Strip"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Strip": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "titel": {
+            "type": "string",
+            "nullable": true
+          },
+          "uitgeverijId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "reeksId": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "reeksNummer": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "reeks": {
+            "$ref": "#/components/schemas/Reeksen"
+          },
+          "uitgeverij": {
+            "$ref": "#/components/schemas/Uitgeverijen"
+          },
+          "auteurs": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Auteur"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Uitgeverijen": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "naam": {
+            "type": "string",
+            "nullable": true
+          },
+          "adres": {
+            "type": "string",
+            "nullable": true
+          },
+          "strips": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Strip"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

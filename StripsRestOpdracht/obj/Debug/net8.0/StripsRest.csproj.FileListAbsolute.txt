@@ -167,3 +167,14 @@ C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8
 C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8.0\StripsRest.pdb
 C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8.0\StripsRest.genruntimeconfig.cache
 C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8.0\ref\StripsRest.dll
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsBL.deps.json
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsBL.runtimeconfig.json
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsBL.exe
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsRest.staticwebassets.endpoints.json
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsBL.dll
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsDL.dll
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsBL.pdb
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\bin\Debug\net8.0\StripsDL.pdb
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8.0\staticwebassets\msbuild.StripsRest.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Loote\source\repos\StripsRestOpdracht\StripsRestOpdracht\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

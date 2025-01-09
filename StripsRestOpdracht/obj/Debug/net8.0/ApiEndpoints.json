@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "StripsRest.Controllers.StripsController",
+    "Method": "AddStrip",
+    "RelativePath": "api/Strips",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "strip",
+        "Type": "StripsDL.Models.Strip",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripsRest.Controllers.StripsController",
+    "Method": "GetStrip",
+    "RelativePath": "api/Strips/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

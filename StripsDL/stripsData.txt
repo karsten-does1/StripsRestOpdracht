@@ -1,0 +1,1296 @@
+﻿23;Kuifje en de Picaro's;Casterman;Kuifje;Hergé
+14;De zonnetempel;Casterman;Kuifje;Hergé
+3;Het waanzinnige land;Silvester;Centaurus;Rodolphe|Janjetov|Leo
+1;Het beloofde land;Silvester;Centaurus;Leo|Janjetov|Rodolphe
+2;Het vreemde land;Silvester;Centaurus;Rodolphe|Janjetov|Leo
+4;Het angstaanjagende land;Silvester;Centaurus;Leo|Janjetov|Rodolphe
+1;Suske;Standaard Uitgeverij;Amoras;"Vandersteen Willy "
+2;Jerusalem;Standaard Uitgeverij;Amoras;"Vandersteen Willy "
+3;Krimson;Standaard Uitgeverij;Amoras;"Vandersteen Willy "
+4;Lambik;Standaard Uitgeverij;Amoras;"Vandersteen Willy "
+5;Wiske;Standaard Uitgeverij;Amoras;"Vandersteen Willy "
+6;Barabas;Standaard Uitgeverij;Amoras;"Vandersteen Willy "
+1;De zaak Krimson #1;Standaard Uitgeverij;De kronieken van Amoras;Vandersteen Willy |Charel Cambré|Marc Legendre
+3;De zaak Krimson #3;Standaard Uitgeverij;De kronieken van Amoras;"Marc Legendre|Charel Cambré|Vandersteen Willy "
+4;Gardavu!;Standaard Uitgeverij;De kronieken van Amoras;Vandersteen Willy |Charel Cambré|Marc Legendre
+5;De killerbacterie;Standaard Uitgeverij;De kronieken van Amoras;"Marc Legendre|Charel Cambré|Vandersteen Willy "
+2;De zaak Krimson #2;Standaard Uitgeverij;De kronieken van Amoras;Vandersteen Willy |Charel Cambré|Marc Legendre
+1;Eerste boek I;Dargaud;De adelaars van Rome;Marini
+2;Tweede boek II;Dargaud;De adelaars van Rome;Marini
+3;Derde boek III;Dargaud;De adelaars van Rome;Marini
+5;Het wezen;Dargaud;Aldebaran;Leo
+4;De groep;Dargaud;Aldebaran;Leo
+3;De foto;Dargaud;Aldebaran;Leo
+2;De blonde vrouw;Dargaud;Aldebaran;Leo
+1;De ramp;Dargaud;Aldebaran;Leo
+1;De planeet;Dargaud;Betelgeuze;Leo
+2;De overlevenden;Dargaud;Betelgeuze;Leo
+3;De expeditie;Dargaud;Betelgeuze;Leo
+4;De grotten;Dargaud;Betelgeuze;Leo
+5;De ander;Dargaud;Betelgeuze;Leo
+1;1ste episode;Dargaud;Antares;Leo
+2;2de episode;Dargaud;Antares;Leo
+3;3de episode;Dargaud;Antares;Leo
+4;4de episode;Dargaud;Antares;Leo
+5;5de episode;Dargaud;Antares;Leo
+6;6de episode;Dargaud;Antares;Leo
+1;1ste episode;Dargaud;Overlevenden;Leo
+2;2de episode;Dargaud;Overlevenden;Leo
+3;3de episode;Dargaud;Overlevenden;Leo
+4;4de episode;Dargaud;Overlevenden;Leo
+5;5de episode;Dargaud;Overlevenden;Leo
+1;1ste episode;Casterman;Terug naar Aldebaran;Leo
+2;2de episode;Casterman;Terug naar Aldebaran;Leo
+1;Verschijningen;Dargaud;Kenya;Leo|Rodolphe
+2;Ontmoetingen;Dargaud;Kenya;Rodolphe|Leo
+3;Hallucinaties;Dargaud;Kenya;Leo|Rodolphe
+4;Interventies;Dargaud;Kenya;Rodolphe|Leo
+5;Illusies;Dargaud;Kenya;Leo|Rodolphe
+1;Deel 1;Dargaud;Amazonia;Rodolphe|Leo|Marchal
+2;Deel 2;Dargaud;Amazonia;Marchal|Leo|Rodolphe
+3;Deel 3;Dargaud;Amazonia;Rodolphe|Leo|Marchal
+4;Deel 4;Dargaud;Amazonia;Marchal|Leo|Rodolphe
+1;Deel 1;Dargaud;Namibia;Rodolphe|Leo|Marchal
+2;Deel 2;Dargaud;Namibia;Marchal|Leo|Rodolphe
+3;Deel 3;Dargaud;Namibia;Rodolphe|Leo|Marchal
+4;Deel 4;Dargaud;Namibia;Marchal|Leo|Rodolphe
+5;Deel 5;Dargaud;Namibia;Rodolphe|Leo|Marchal
+1;Episode 1;Dargaud;Verre werelden;Leo|Icar
+2;Episode 2;Dargaud;Verre werelden;Icar|Leo
+3;Episode 3;Dargaud;Verre werelden;Leo|Icar
+4;Episode 4;Dargaud;Verre werelden;Icar|Leo
+5;Episode 5;Dargaud;Verre werelden;Leo|Icar
+1;De ijskoningin;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+2;Het eiland der bevroren zeeën;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+3;Drie grijsaards in het land van Aran;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+4;De zwarte galei;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+5;De schaduwen voorbij;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+6;De val van Brek Zarith;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+7;Het sterrenkind;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+8;Alinoë;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+9;De boogschutters;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+10;Het land Qâ;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+11;De ogen van Tanatloc;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+12;De stad van de verloren god;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+13;Tussen aarde en licht;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+14;Aaricia;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+15;De meester van de bergen;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+16;De wolvin;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+17;De sleutelbewaarster;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+18;Het zonnezwaard;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+19;De onzichtbare vesting;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+20;Het brandmerk van de ballingschap;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+21;De kroon van Ogotaï;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+22;Reuzen;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+23;De kooi;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+24;Arachnea;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+25;De blauwe ziekte;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+26;Het koninkrijk onder het zand;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+27;De barbaar;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+28;Kriss van Valnor;Le Lombard;Thorgal;Van Hamme Jean|Rosinski Grzegorz
+29;Het offer;Le Lombard;Thorgal;Rosinski Grzegorz|Van Hamme Jean
+30;Ik, Jolan;Le Lombard;Thorgal;Rosinski Grzegorz|Sente Yves
+31;Het schild van Thor;Le Lombard;Thorgal;Sente Yves|Rosinski Grzegorz
+32;De slag van Asgard;Le Lombard;Thorgal;Rosinski Grzegorz|Sente Yves
+33;De zwaardboot;Le Lombard;Thorgal;Sente Yves|Rosinski Grzegorz
+34;Kah-Aniël;Le Lombard;Thorgal;Rosinski Grzegorz|Sente Yves
+35;Scharlaken vuur;Le Lombard;Thorgal;Rosinski Grzegorz|Dorrison Xavier
+36;Aniël;Le Lombard;Thorgal;Yann|Rosinski Grzegorz
+37;De kluizenaar van Skellingar;Le Lombard;Thorgal;Yann|Vignaux Fred
+1;Raïssa;Le Lombard;De werelden van Thorgal - Wolvin;Yann|Surzhenko Roman
+2;De afgehakte hand van de god Tyr;Le Lombard;De werelden van Thorgal - Wolvin;Surzhenko Roman|Yann
+3;Het rijk van de chaos;Le Lombard;De werelden van Thorgal - Wolvin;Yann|Surzhenko Roman
+4;Crow;Le Lombard;De werelden van Thorgal - Wolvin;Surzhenko Roman|Yann
+5;Skald;Le Lombard;De werelden van Thorgal - Wolvin;Yann|Surzhenko Roman
+6;De koningin van de zwarte Alfen;Le Lombard;De werelden van Thorgal - Wolvin;Surzhenko Roman|Yann
+7;Nidhogg;Le Lombard;De werelden van Thorgal - Wolvin;Yann|Surzhenko Roman
+1;De drie zussen Minkelsönn;Le Lombard;De werelden van Thorgal - De jonge jaren;Surzhenko Roman|Yann
+2;Het oog van Odin;Le Lombard;De werelden van Thorgal - De jonge jaren;Yann|Surzhenko Roman
+3;Runa;Le Lombard;De werelden van Thorgal - De jonge jaren;Surzhenko Roman|Yann
+4;Berserkers;Le Lombard;De werelden van Thorgal - De jonge jaren;Yann|Surzhenko Roman
+5;Slive;Le Lombard;De werelden van Thorgal - De jonge jaren;Surzhenko Roman|Yann
+6;De drakar van ijs;Le Lombard;De werelden van Thorgal - De jonge jaren;Yann|Surzhenko Roman
+7;De blauwe tand;Le Lombard;De werelden van Thorgal - De jonge jaren;Surzhenko Roman|Yann
+1;Ik vergeet niets !;Le Lombard;De werelden van Thorgal - Kriss van Valnor;De Vita Giulio|Sente Yves
+2;De straf van de Walkuren;Le Lombard;De werelden van Thorgal - Kriss van Valnor;Sente Yves|De Vita Giulio
+3;Een koningin waardig;Le Lombard;De werelden van Thorgal - Kriss van Valnor;De Vita Giulio|Sente Yves
+4;Bondgenootschappen;Le Lombard;De werelden van Thorgal - Kriss van Valnor;Sente Yves|De Vita Giulio
+5;Rode Raheborg;Le Lombard;De werelden van Thorgal - Kriss van Valnor;De Vita Giulio|Sente Yves
+6;Het eiland van de verloren kinderen;Le Lombard;De werelden van Thorgal - Kriss van Valnor;Mariolle Mathieu|Dorrison Xavier|Surzhenko Roman
+7;De tijdberg;Le Lombard;De werelden van Thorgal - Kriss van Valnor;Dorrison Xavier|Mariolle Mathieu|Vignaux Fred
+8;De opperrechter;Le Lombard;De werelden van Thorgal - Kriss van Valnor;Vignaux Fred|Mariolle Mathieu
+1;Kuifje in het land van de Sovjets;Casterman;Kuifje;Hergé
+2;Kuifje in Afrika;Casterman;Kuifje;Hergé
+3;Kuifje in Amerika;Casterman;Kuifje;Hergé
+4;De sigaren van de farao;Casterman;Kuifje;Hergé
+5;De blauwe lotus;Casterman;Kuifje;Hergé
+6;Het gebroken oor;Casterman;Kuifje;Hergé
+7;De zwarte rotsen;Casterman;Kuifje;Hergé
+8;De scepter van Ottokar;Casterman;Kuifje;Hergé
+9;De krab met de gulden scharen;Casterman;Kuifje;Hergé
+10;De geheimzinnige ster;Casterman;Kuifje;Hergé
+11;Het geheim van de Eenhoorn;Casterman;Kuifje;Hergé
+12;De schat van  Scharlaken Rackham;Casterman;Kuifje;Hergé
+13;De 7 kristallen bollen;Casterman;Kuifje;Hergé
+15;Kuifje en het zwarte goud;Casterman;Kuifje;Hergé
+16;Raket naar de maan;Casterman;Kuifje;Hergé
+17;Mannen op de maan;Casterman;Kuifje;Hergé
+18;De zaak Zonnebloem;Casterman;Kuifje;Hergé
+19;Cokes in voorraad;Casterman;Kuifje;Hergé
+20;Kuifje in Tibet;Casterman;Kuifje;Hergé
+21;De juwelen van Bianca Castafiore;Casterman;Kuifje;Hergé
+22;Vlucht 714;Casterman;Kuifje;Hergé
+NULL;Kuifje en het haaienmeer;Casterman;Kuifje;Hergé
+1;De Galliër;Dargaud;Asterix;Goscinny René|Uderzo Albert
+2;Asterix en het ijzeren schild;Dargaud;Asterix;Uderzo Albert|Goscinny René
+3;De kampioen;Dargaud;Asterix;Goscinny René|Uderzo Albert
+4;Asterix en de Britten;Dargaud;Asterix;Uderzo Albert|Goscinny René
+5;Asterix en de ronde van Gallia;Dargaud;Asterix;Goscinny René|Uderzo Albert
+6;Asterix en de Gothen;Dargaud;Asterix;Uderzo Albert|Goscinny René
+7;Asterix en Cleopatra;Dargaud;Asterix;Goscinny René|Uderzo Albert
+8;Asterix en de koperen ketel;Dargaud;Asterix;Uderzo Albert|Goscinny René
+9;Asterix en de gladiatoren;Dargaud;Asterix;Goscinny René|Uderzo Albert
+10;Het gouden snoeimes;Dargaud;Asterix;Uderzo Albert|Goscinny René
+11;Asterix en de Noormannen;Dargaud;Asterix;Goscinny René|Uderzo Albert
+12;Asterix en het 1ste legioen;Dargaud;Asterix;Uderzo Albert|Goscinny René
+13;Asterix en de intrigant;Dargaud;Asterix;Goscinny René|Uderzo Albert
+14;Asterix en de olympische spelen;Dargaud;Asterix;Uderzo Albert|Goscinny René
+15;Asterix in Hispania;Dargaud;Asterix;Goscinny René|Uderzo Albert
+16;Asterix en de Helvetiërs;Dargaud;Asterix;Uderzo Albert|Goscinny René
+17;Asteerix en de lauwerkrans van Caesar;Dargaud;Asterix;Goscinny René|Uderzo Albert
+18;Asterix en de Romeinse lusthof;Dargaud;Asterix;Uderzo Albert|Goscinny René
+19;Asterix en de ziener;Dargaud;Asterix;Goscinny René|Uderzo Albert
+20;Asterix op Corsica;Dargaud;Asterix;Uderzo Albert|Goscinny René
+21;Asterix en het geschenk van Caesar;Dargaud;Asterix;Goscinny René|Uderzo Albert
+22;De grote oversteek;Dargaud;Asterix;Uderzo Albert|Goscinny René
+23;Obelix & Co.;Dargaud;Asterix;Goscinny René|Uderzo Albert
+24;Asterix en de Belgen;Dargaud;Asterix;Uderzo Albert|Goscinny René
+25;De broedertwist;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+27;De zoon van Asterix;Les editions Albert René;Asterix;Uderzo Albert|Goscinny René
+28;Asterix in Indus-land;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+29;De roos en het zwaard;Les editions Albert René;Asterix;Uderzo Albert|Goscinny René
+30;De beproeving van Obelix;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+31;Asterix en Latraviata;Les editions Albert René;Asterix;Uderzo Albert|Goscinny René
+32;Het pretpakket;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+33;Het geheime wapen;Les editions Albert René;Asterix;Uderzo Albert|Goscinny René
+34;De verjaardag van Asterix & Obelix;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+35;Asterix bij de Picten;Les editions Albert René;Asterix;Uderzo Albert|Goscinny René
+36;De papyrus van Caesar;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+37;Asterix en de race door de laars;Les editions Albert René;Asterix;Uderzo Albert|Goscinny René
+38;De dochter van de veldheer;Les editions Albert René;Asterix;Goscinny René|Uderzo Albert
+1;In het spoor van Sherlock Holmes;De Vlijt;Piet Pienter en Bert Bibber;POM
+2;De Inca-schat der Cordillera;De Vlijt;Piet Pienter en Bert Bibber;POM
+3;Het raadsel van de Schimmenburcht;De Vlijt;Piet Pienter en Bert Bibber;POM
+4;Plakijzerpiraten;De Vlijt;Piet Pienter en Bert Bibber;POM
+5;De diamantmijnen van koningin Salami;De Vlijt;Piet Pienter en Bert Bibber;POM
+6;De Kumulusformule;De Vlijt;Piet Pienter en Bert Bibber;POM
+7;El Rancho Grande;De Vlijt;Piet Pienter en Bert Bibber;POM
+8;Bibber contra Tutter;De Vlijt;Piet Pienter en Bert Bibber;POM
+9;Buldaarse Rhapsodie;De Vlijt;Piet Pienter en Bert Bibber;POM
+12;Storm over Akhabakhadar;De Vlijt;Piet Pienter en Bert Bibber;POM
+13;De anti-zwaartekracht-generator;De Vlijt;Piet Pienter en Bert Bibber;POM
+14;Het straalgasmysterie;De Vlijt;Piet Pienter en Bert Bibber;POM
+15;De barbier van Bombilla;De Vlijt;Piet Pienter en Bert Bibber;POM
+16;De verborgen schat;De Vlijt;Piet Pienter en Bert Bibber;POM
+18;De dubbel-koolzure-soda-bom;De Vlijt;Piet Pienter en Bert Bibber;POM
+19;Herrie om Carolus Magnus;De Vlijt;Piet Pienter en Bert Bibber;POM
+20;De diktator van San Doremi;De Vlijt;Piet Pienter en Bert Bibber;POM
+21;Straalgoud;Standaard Uitgeverij;Piet Pienter en Bert Bibber;POM
+22;De diadeem van Swaba;De Vlijt;Piet Pienter en Bert Bibber;POM
+23;Bulderlachgas;De Vlijt;Piet Pienter en Bert Bibber;POM
+24;Invasie uit het heelal;Standaard Uitgeverij;Piet Pienter en Bert Bibber;POM
+25;De tijdmachine;De Vlijt;Piet Pienter en Bert Bibber;POM
+26;Hypnosepillen;De Vlijt;Piet Pienter en Bert Bibber;POM
+27;Het geval Warwinkel;De Vlijt;Piet Pienter en Bert Bibber;POM
+28;Superbrandstof en pikante saus;De Vlijt;Piet Pienter en Bert Bibber;POM
+29;De dubbelganger;De Vlijt;Piet Pienter en Bert Bibber;POM
+30;Warwinkel in de war;De Vlijt;Piet Pienter en Bert Bibber;POM
+31;Polarisatiepreparaat XX;De Vlijt;Piet Pienter en Bert Bibber;POM
+32;Hokus-focus-flits;De Vlijt;Piet Pienter en Bert Bibber;POM
+33;Gedonder in Bommelheide;De Vlijt;Piet Pienter en Bert Bibber;POM
+34;De zaak Blinkstein;De Vlijt;Piet Pienter en Bert Bibber;POM
+35;Operatie diepvries;De Vlijt;Piet Pienter en Bert Bibber;POM
+36;De erfenis van nonkel Bibber;De Vlijt;Piet Pienter en Bert Bibber;POM
+37;Atoombrandstof Warwinkelarium;De Vlijt;Piet Pienter en Bert Bibber;POM
+39;Marie Huana;De Vlijt;Piet Pienter en Bert Bibber;POM
+38;"Zangkwintet ""De Lange Asem""";Standaard Uitgeverij;Piet Pienter en Bert Bibber;POM
+40;Hypnosestralen;Standaard Uitgeverij;Piet Pienter en Bert Bibber;POM
+41;Systeem kleerkast;De Vlijt;Piet Pienter en Bert Bibber;POM
+43;Intermezzo in Hamaj'Oewait;Keesing;Piet Pienter en Bert Bibber;POM
+45;Susan bij de Knobbelgilde;Standaard Uitgeverij;Piet Pienter en Bert Bibber;POM
+NULL;Avontuur in de 21ste eeuw;Nouga;Piet Pienter en Bert Bibber;Bouden Tom
+35;Jesse James;Dargaud;Lucky Luke;Morris|Goscinny René
+43;De erfenis van Rataplan;Dargaud;Lucky Luke;Goscinny René|Morris
+38;Ma Dalton;Dargaud;Lucky Luke;Morris|Goscinny René
+49;De ballade van de Daltons;Dargaud;Lucky Luke;Goscinny René|Morris
+40;De premiejager;Dargaud;Lucky Luke;Morris|Goscinny René
+45;Zijne kiezerlijke hoogheid Smith;Dargaud;Lucky Luke;Goscinny René|Morris
+42;De witte ridder;Dargaud;Lucky Luke;Morris|Goscinny René
+22;De Daltons in de blizard;Dupuis;Lucky Luke;Goscinny René|Morris
+13;De rechter;Dupuis;Lucky Luke;Morris
+5;Lucky Luke tegen Pat Poker;Dupuis;Lucky Luke;Morris
+30;Calamity Jane;Dupuis;Lucky Luke;Morris|Goscinny René
+31;Tortillas voor de Daltons;Dupuis;Lucky Luke;Morris
+15;De Daltons breken uit;Dupuis;Lucky Luke;Morris|Goscinny René
+20;Billy the Kid;Dupuis;Lucky Luke;Goscinny René|Morris
+27;Het 20ste cavalerie;Dupuis;Lucky Luke;Morris|Goscinny René
+67;Klondike;Lucky Productions;Lucky Luke;Yann|Morris|Léturgie Jean
+62;Spokenjacht;Lucky Productions;Lucky Luke;Hartog Van Banda Lo|Morris
+16;Bootrace op de Mississippi;Dupuis;Lucky Luke;Morris
+55;The Daily Star;Dargaud;Lucky Luke;Morris|Léturgie Jean|Fauche Xavier
+71;De profeet;Lucky Productions;Lucky Luke;Nordmann Patrick|Morris
+52;De strop van de gehangene;Dargaud;Lucky Luke;Morris
+63;De Daltons op de bruiloft;Lucky Productions;Lucky Luke;Morris|Fauche Xavier|Léturgie Jean
+73;De legende van het westen;Lucky Productions;Lucky Luke;Nordmann Patrick|Morris
+58;De duivelsranch;Dargaud;Lucky Luke;Morris|Guylouis Claude|Janvier Michel
+32;De postkoets;Lucky Productions;Lucky Luke;Morris|Goscinny René
+33;Tenderfoot;Lucky Productions;Lucky Luke;Goscinny René|Morris
+34;Dalton City;Lucky Productions;Lucky Luke;Morris|Goscinny René
+57;Nitroglycerine;Lucky Productions;Lucky Luke;Morris|Hartog Van Banda Lo
+59;Het alibi;Lucky Productions;Lucky Luke;Hartog Van Banda Lo|Morris
+65;Kid Lucky;Lucky Productions;Lucky Luke;Morris|Pearce|Léturgie Jean
+64;De brug over de Mississipi;Lucky Productions;Lucky Luke;Léturgie Jean|Fauche Xavier|Morris
+1;Purper en goud;Dargaud;Murena;Dufaux|Delaby
+2;Zand en bloed;Dargaud;Murena;Delaby|Dufaux
+3;Een volmaakte moeder;Dargaud;Murena;Dufaux|Delaby
+4;Voor hen die gaan sterven;Dargaud;Murena;Delaby|Dufaux
+5;De zwarte godin;Dargaud;Murena;Dufaux|Delaby
+6;Het bloed van de beesten;Dargaud;Murena;Delaby|Dufaux
+7;Een leven van vuur;Dargaud;Murena;Dufaux|Delaby
+8;De wraak van as;Dargaud;Murena;Delaby|Dufaux
+9;Doornen;Dargaud;Murena;Dufaux|Delaby
+1;Het teken van de duivel;Dargaud;De schorpioen;Desberg|Marini
+2;Het geheim van de paus;Dargaud;De schorpioen;Marini|Desberg
+3;Het kruis van Petrus;Dargaud;De schorpioen;Desberg|Marini
+4;De duivel in het Vaticaan;Dargaud;De schorpioen;Marini|Desberg
+5;Het heilige dal;Dargaud;De schorpioen;Desberg|Marini
+6;De schat van de tempel;Dargaud;De schorpioen;Marini|Desberg
+7;In de naam van de vader;Dargaud;De schorpioen;Desberg|Marini
+8;De schaduw van de engel;Dargaud;De schorpioen;Marini|Desberg
+9;Het masker van de waarheid;Dargaud;De schorpioen;Desberg|Marini
+10;In de naam van de zoon;Dargaud;De schorpioen;Marini|Desberg
+11;De negende familie;Dargaud;De schorpioen;Desberg|Marini
+12;De goddeloze augur;Dargaud;De schorpioen;Marini|Desberg
+1;Jukurpa;Talent;Carmen mc Callum;Duval|Gess|Blanchard|Breton|Vatine
+2;Mare tranquillitatis;Talent;Carmen mc Callum;Breton|Gess|Duval
+3;Indringing;Talent;Carmen mc Callum;Duval|Gess|Rabarot
+4;Samuel Earp;Talent;Carmen mc Callum;Rabarot|Gess|Duval
+1;Land van ruïnes;Talent;amazone century;Latil|Ponce
+2;Land van herinneringen;Talent;amazone century;Ponce|Latil
+3;Land van gevaren;Talent;amazone century;Latil|Ponce
+1;Anja;Dargaud;Venus H.;Renaud|Dufaux
+2;Miaki;Dargaud;Venus H.;Dufaux|Renaud
+NULL;Wanda;Dargaud;Venus H.;Renaud|Dufaux
+1;Eerste hoofdstuk - Twee gouden handen;Dargaud;De wraak van graaf Skarbek;Sente Yves|Rosinski Grzegorz
+2;Tweede hoofdstuk - Een bronzen hart;Dargaud;De wraak van graaf Skarbek;Rosinski Grzegorz|Sente Yves
+1;De voorspelling;Le Lombard;Halloween blues;Mythic|Kas
+2;Ik scrijf u uit Gettysburg;Le Lombard;Halloween blues;Kas|Mythic
+3;Andermans herinneringen;Le Lombard;Halloween blues;Mythic|Kas
+4;Verdwijnpunten;Le Lombard;Halloween blues;Kas|Mythic
+5;Zoekgeraakte letters;Le Lombard;Halloween blues;Mythic|Kas
+7;Remake;Le Lombard;Halloween blues;Kas|Mythic
+1;@hell.Zcom;Le Lombard;Alvin Norge;Lamquet Chris
+2;Morphing Amer;Le Lombard;Alvin Norge;Lamquet Chris
+3;Lucyber;Le Lombard;Alvin Norge;Lamquet Chris
+4;Shangai hypothese;Le Lombard;Alvin Norge;Lamquet Chris
+5;Quantum;Le Lombard;Alvin Norge;Lamquet Chris
+1;De erfgenaam;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+2;Groep W;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+3;O.O.B.;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+4;Business blues;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+5;H;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+6;Dutch connection;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+7;De burcht van Makiling;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+8;Het uur van de tijger;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+9;Venetië zien ...;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+10;... en sterven;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+11;Golden gate;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+12;Shadow;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+13;De prijs van het geld;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+14;De wet van de dollar;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+15;De drie ogen van de bewakers van de Tao;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+16;De weg en de deugd;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+17;Zwarte zee;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+18;Rode woede;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+19;Crossfire;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+20;20 seconden;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+21;Morning star;Dupuis;Largo Winch;Francq Philippe|Van Hamme Jean
+22;Scharlaken zeilen;Dupuis;Largo Winch;Van Hamme Jean|Francq Philippe
+1;De mazen van de wet;Le Lombard;I.R.$.;Vrancken|Desberg
+2;De Hagen-strategie;Le Lombard;I.R.$.;Desberg|Vrancken
+3;Blue ice;Le Lombard;I.R.$.;Vrancken|Desberg
+4;Narcocratie;Le Lombard;I.R.$.;Desberg|Vrancken
+5;Silicia Inc.;Le Lombard;I.R.$.;Vrancken|Desberg
+6;De omkoper;Le Lombard;I.R.$.;Desberg|Vrancken
+8;De zwarte oorlog;Le Lombard;I.R.$.;Vrancken|Desberg
+9;Romeinse betrekkingen;Le Lombard;I.R.$.;Desberg|Vrancken
+10;De loge van de moordenaars;Le Lombard;I.R.$.;Vrancken|Desberg
+11;Gloria;Le Lombard;I.R.$.;Desberg|Vrancken
+12;In naam van de president;Le Lombard;I.R.$.;Vrancken|Desberg
+13;Het goud van Yamashita;Le Lombard;I.R.$.;Desberg|Vrancken
+14;De overlevenden van Nanking;Le Lombard;I.R.$.;Vrancken|Desberg
+2;De ongrijpbare Roxana;Le Lombard;I.R.$. All watcher;Desberg|Koller
+6;De financiële snaartheorie;Le Lombard;I.R.$. All watcher;Koller|Desberg
+4;De macParnellspiraal;Le Lombard;I.R.$. All watcher;Desberg|Mutti
+7;Het financiële zwarte gat;Le Lombard;I.R.$. All watcher;Bourgne|Desberg
+10;Het banket;Dargaud;Murena;Dufaux|Theo
+1;Lien Rag;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+2;Floa Sadon;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+3;Kurts;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+4;Broeder Petrus;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+5;Jdrou;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+6;Yeuse;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+7;Pietr;Dargaud;De nieuwe ijstijd;Arnaud G.J.
+1;De Chasch - deel 1;Daedalus;Tschaï - De waanzinnige planeet;Morvan|Li-An|Scarlett
+2;De Chasch - deel 2;Daedalus;Tschaï - De waanzinnige planeet;Scarlett|Li-An|Morvan
+3;De Wankh - deel 1;Daedalus;Tschaï - De waanzinnige planeet;Morvan|Li-An|Scarlett
+4;De Wankh - deel 2;Daedalus;Tschaï - De waanzinnige planeet;Scarlett|Li-An|Morvan
+5;De Dirdir - deel 1;Daedalus;Tschaï - De waanzinnige planeet;Morvan|Li-An|Scarlett
+6;De Dirdir - deel 2;Daedalus;Tschaï - De waanzinnige planeet;Scarlett|Li-An|Morvan
+8;De Pnume - deel 2;Daedalus;Tschaï - De waanzinnige planeet;Morvan|Li-An|Scarlett
+1;Deel 1;Dargaud;Mermaid project;Jamar|Simon|Leo
+2;Deel 2;Dargaud;Mermaid project;Leo|Simon|Jamar
+3;Deel 3;Dargaud;Mermaid project;Jamar|Simon|Leo
+4;Deel 4;Dargaud;Mermaid project;Leo|Simon|Jamar
+5;Deel 5;Dargaud;Mermaid project;Jamar|Simon|Leo
+1;Het bloed van Sint-Bothratius;Glénat;De rode keizerin;Dufaux|Adamov
+2;Ijzeren harten;Glénat;De rode keizerin;Adamov|Dufaux
+3;Onreinen;Glénat;De rode keizerin;Dufaux|Adamov
+4;De grote potvissen;Glénat;De rode keizerin;Adamov|Dufaux
+1;Tako;Glénat;Tako;Yann|Michetz
+2;Ama;Glénat;Tako;Michetz|Yann
+1;De arend, juffrouw ...;Glénat;Sade;Dufaux|Griffo
+1;Minder is meer ...;Glénat;Samber;Yslaire|Balac
+2;Ik weet dat je terug zult komen;Glénat;Samber;Balac|Yslaire
+3;Revolutie, revolutie ...;Glénat;Samber;Yslaire
+4;Moeten wij dan samen sterven ...;Glénat;Samber;Yslaire
+5;Vervloekt zij de vrucht van uw schoot ...;Glénat;Samber;Yslaire
+1;Getto 9;Glénat;Dayak;Adamov
+2;De groene kamer;Glénat;Dayak;Adamov
+3;Zaks;Glénat;Dayak;Adamov
+1;Eliza;Glénat;De schilderleraar;Richaud|Makyo|Faure
+2;De onverklaarbare gave;Glénat;De schilderleraar;Faure|Makyo|Richaud
+3;Eerste concert;Glénat;De schilderleraar;Richaud|Makyo|Faure
+1;Het schaakbord van de rat;Glénat;De waters van Dodemaan;Cothias|Adamov
+2;De havenkroeg;Glénat;De waters van Dodemaan;Adamov|Cothias
+3;De prins en de hoer;Glénat;De waters van Dodemaan;Cothias|Adamov
+4;De ogen van Niklaas;Glénat;De waters van Dodemaan;Adamov|Cothias
+5;De dans van de zee;Glénat;De waters van Dodemaan;Cothias|Adamov
+6;Het getal van het beest;Glénat;De waters van Dodemaan;Adamov|Cothias
+7;De oorlog van de goden;Glénat;De waters van Dodemaan;Cothias|Adamov
+8;De dood van Niklaas;Glénat;De waters van Dodemaan;Adamov|Cothias
+9;De profundis;Glénat;De waters van Dodemaan;Cothias|Adamov
+10;Op zoek naar de verloren tijd;Glénat;De waters van Dodemaan;Adamov|Cothias
+0;Commandant Grek Gevangenen van de tijd;Big Balloon;Storm;Wernham Vince|Lawrence Don
+1;De diepe wereld;Big Balloon;Storm;Lawrence Don|Dunn Saul
+2;De laatste vechter;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+3;Het volk van de woestijn;Big Balloon;Storm;Lawrence Don|Matena Dick
+4;De groene hel;Big Balloon;Storm;Matena Dick|Lawrence Don
+5;De strijd om de Aarde;Big Balloon;Storm;Lawrence Don|Matena Dick
+6;Het geheim van de nitronstralen;Big Balloon;Storm;Matena Dick|Lawrence Don
+8;Stad der verdoemden;Big Balloon;Storm;Lawrence Don|Gosnell Kelvin
+9;De sluimerende dood;Big Balloon;Storm;Lawrence Don
+10;De piraten van Pandarve;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+11;Het doolhof van de dood;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+12;De zeven van Aromater;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+13;De doder van Eriban;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+14;De honden van Marduk;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+15;De levende planeet;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+16;Vandaahl de verderver;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+17;De wentelwereld;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+18;De robots van Danderzei;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+19;De terugkeer van de rode prins;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+20;De Von Neumann-machine;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+21;De Genesis-formule;Big Balloon;Storm;Lodewijk Martin|Lawrence Don
+22;De Armageddon reiziger;Big Balloon;Storm;Lawrence Don|Lodewijk Martin
+23;De navel van de dubbele god;Don Lawrence collection;Storm;Lodewijk Martin|Molenaar Romano|De Vos Jorg
+24;De bronnen van Marduk;Don Lawrence collection;Storm;De Vos Jorg|Molenaar Romano|Lodewijk Martin
+25;Het rode spoor;Don Lawrence collection;Storm;Lodewijk Martin|Molenaar Romano|De Vos Jorg
+26;De muiters van Anker;Don Lawrence collection;Storm;De Vos Jorg|Molenaar Romano|Lodewijk Martin
+27;De wisselwachters;Don Lawrence collection;Storm;Lodewijk Martin|Molenaar Romano|De Vos Jorg|Van Bavel Rob
+28;De race van Opaal;Don Lawrence collection;Storm;De Vos Jorg|Molenaar Romano|Matena Dick
+29;Het koraal van Kesmee;Don Lawrence collection;Storm;Matena Dick|Molenaar Romano|De Vos Jorg
+30;De beul van Torkien;Uitgeverij L;Storm;Van Bavel Rob|Molenaar Romano
+31;Het gesticht van Krijs;Uitgeverij L;Storm;Molenaar Romano|Van Bavel Rob
+1;Het voyager virus;Big Balloon;Storm - Kronieken van de tussentijd;Lodewijk Martin|Kelly John
+2;De Dallas paradox;Big Balloon;Storm - Kronieken van de tussentijd;Kelly John|Lodewijk Martin
+3;De sterrenvreter;Big Balloon;Storm - Kronieken van de tussentijd;Lodewijk Martin|Matena Dick
+1;De legende van Krill;Don Lawrence collection;Storm - De kronieken van Roodhaar;Molenaar Romano|Thomas Roy
+2;De vijfde toren;Don Lawrence collection;Storm - De kronieken van Roodhaar;Molenaar Romano|Van Bavel Rob
+3;De ark van Noorach;Don Lawrence collection;Storm - De kronieken van Roodhaar;Van Bavel Rob|Molenaar Romano
+4;Het zwevende gewest;Uitgeverij L;Storm - De kronieken van Roodhaar;Molenaar Romano|Van Bavel Rob
+5;De reuzen van het gebroken rif;Uitgeverij L;Storm - De kronieken van Roodhaar;Van Bavel Rob|Molenaar Romano
+1;Beroepsavonturier;Dargaud;Dexter London;Garcia Sergio|Leo
+2;De tocht van de woestijn;Dargaud;Dexter London;Leo|Garcia Sergio
+3;De bronnen van de Rouandiz;Dargaud;Dexter London;Garcia Sergio|Leo
+1;De tatoeage;Prestige;Bird;Trillo|Bobillo
+2;Het masker;Prestige;Bird;Bobillo|Trillo
+3;Het gezicht;Prestige;Bird;Trillo|Bobillo
+1;Nachtvlucht;Vinci;Vleugels van lood;Gibelin|Barralx
+2;De vlucht van de visarend;Vinci;Vleugels van lood;Barralx|Gibelin
+3;De zaak is rond;Vinci;Vleugels van lood;Gibelin|Barralx
+1;Jaguars;Vinci;Rails;Chauvel|Simon
+2;De witte garde;Vinci;Rails;Simon|Chauvel|Findakiy
+3;De val van de leeuw;Vinci;Rails;Chauvel|Simon
+1;Het 19de slachtoffer;Vinci;De geest van Warren;Brunschwig|Guth|Servain
+2;De legende van de nieuwe man;Vinci;De geest van Warren;Servain|Guth|Brunschwig
+3;Het kind in de tuin;Vinci;De geest van Warren;Brunschwig|Guth|Servain
+1;Level eleven;Vinci;Nemesis;Janolle|Van den Abeele|Ange
+2;Babalon working;Vinci;Nemesis;Ange|Van den Abeele|Janolle
+3;Critical mass;Vinci;Nemesis;Janolle|Van den Abeele|Ange
+4;Nanotech;Vinci;Nemesis;Ange|Van den Abeele|Janolle
+5;Terminal crash;Vinci;Nemesis;Janolle|Ange
+1;De zwarte doos;Talent;Lady Lambada;Lobo Cesar
+1;1963 Clara en de bergen;Casterman;American seasons;Renard Romain|Vasseur Yves
+1;Sylvophobiz;Vinci;Lunatiks;Roudaut|Chauvel
+1;Sanitas;Vinci;Valstrik memory;Gibelin|Servain
+1;Zwarte oceaan;Vinci;Yakuza;Corteggiani|Barison
+1;Strijd om Trigië;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+2;Laatste uur voor Elekton;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+3;Stad onder vuur;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+6;In de greep van het kwaad;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+7;De zonen van de keizer;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+8;De verboden stad;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+9;De strijd om de macht;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+10;De plaatsvervanger;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+11;Dreiging uit het heelal;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+13;De wraak van een vriend;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+15;De vloek van de mummie;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+17;Het boze oog;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+18;De genezende gokker;Big Balloon;Trigië;Butterworth Mike|Lawrence Don
+19;De vergeten vallei;Big Balloon;Trigië;Lawrence Don|Butterworth Mike
+1;De nacht van de roofvogels;Dupuis;Jeremiah;Hermann
+2;De woestijnpiraten;Dupuis;Jeremiah;Hermann
+3;De gewetenloze erfgenamen;Dupuis;Jeremiah;Hermann
+4;Ogen van gloeiend ijzer;Dupuis;Jeremiah;Hermann
+5;Het eindeloos experiment;Dupuis;Jeremiah;Hermann
+6;De sekte;Dupuis;Jeremiah;Hermann
+7;Afromerica;Dupuis;Jeremiah;Hermann
+8;Het woedende water;Dupuis;Jeremiah;Hermann
+9;De winter van een clown;Dupuis;Jeremiah;Hermann
+10;Boomerang;Dupuis;Jeremiah;Hermann
+11;Delta;Dupuis;Jeremiah;Hermann
+12;Julius & Romea;Dupuis;Jeremiah;Hermann
+13;Strike;Dupuis;Jeremiah;Hermann
+14;Simon is terug;Dupuis;Jeremiah;Hermann
+15;Alex;Dupuis;Jeremiah;Hermann
+16;De rode lijn;Dupuis;Jeremiah;Hermann
+17;Drie motorfietsen ... of vier;Dupuis;Jeremiah;Hermann
+18;Ave Caesar;Dupuis;Jeremiah;Hermann
+19;Het grensgebied;Dupuis;Jeremiah;Hermann
+20;Huurlingen;Dupuis;Jeremiah;Hermann
+21;Neef Lindford;Dupuis;Jeremiah;Hermann
+22;Een geweer in het water;Dupuis;Jeremiah;Hermann
+23;Wie is Blue Fox ?;Dupuis;Jeremiah;Hermann
+24;De laatste diamant;Dupuis;Jeremiah;Hermann
+25;Mocht de wereld op'n dag ...;Dupuis;Jeremiah;Hermann
+26;Een haven in de schaduw;Dupuis;Jeremiah;Hermann
+27;Elsie en de straat ...;Dupuis;Jeremiah;Hermann
+28;Met Esra is alles goed;Dupuis;Jeremiah;Hermann
+29;Poesje is dood;Dupuis;Jeremiah;Hermann
+30;Mister fiftyfifty;Dupuis;Jeremiah;Hermann
+31;De krabbenmand;Dupuis;Jeremiah;Hermann
+32;De chef;Dupuis;Jeremiah;Hermann
+33;De grote loebas en het blondje;Dupuis;Jeremiah;Hermann
+34;Jungle city;Dupuis;Jeremiah;Hermann
+35;Kurdy Malloy en mama Olga;Dupuis;Jeremiah;Hermann
+36;Shit, verdomme !;Dupuis;Jeremiah;Hermann
+37;Het beest;Dupuis;Jeremiah;Hermann
+1;Onheil op de rivier;Le Lombard;Bernard Prince;Hermann|Yves H.
+1;Bloedbanden;Le Lombard;Getekend;Yves H.|Hermann
+2;Manhatten beach 1957;Le Lombard;Getekend;Hermann|Yves H.
+3;The girl from Ipanema;Le Lombard;Getekend;Yves H.|Hermann
+NULL;De bloedbruiloft;Dupuis;Vrije vlucht;Hermann|Yves H.
+1;De overdracht;Le Lombard;Alfa;Jigounov Y.|Renard P.
+2;De Bogdanov clan;Le Lombard;Alfa;Renard P.|Jigounov Y.
+3;Het loon van de wolven;Le Lombard;Alfa;Jigounov Y.|Mythic
+4;De lijst;Le Lombard;Alfa;Mythic|Jigounov Y.
+5;Sancties;Le Lombard;Alfa;Jigounov Y.|Mythic
+6;De afgezant;Le Lombard;Alfa;Mythic|Jigounov Y.
+7;Snow White, 30 seconden;Le Lombard;Alfa;Jigounov Y.|Mythic
+8;Het spel van de macht;Le Lombard;Alfa;Mythic|Jigounov Y.
+9;Scala;Le Lombard;Alfa;Jigounov Y.|Mythic
+10;Leugens;Le Lombard;Alfa;Mythic|Jigounov Y.
+11;Fucking patriot;Le Lombard;Alfa;Jigounov Y.
+13;Het syndroom van Maracamba;Le Lombard;Alfa;Jigounov Y.|Lamquet Chris
+14;Domino's;Le Lombard;Alfa;Herzet|Queireix
+1;Vuurdoop;Le Lombard;Alfa - eerste wapenfeiten;Herzet|Loutte
+2;Solo;Le Lombard;Alfa - eerste wapenfeiten;Loutte|Herzet
+3;De volgende ronde;Le Lombard;Alfa - eerste wapenfeiten;Herzet|Queireix
+4;Matroesjka's;Le Lombard;Alfa - eerste wapenfeiten;Queireix|Herzet
+5;Het uur waarop de hyena's drinken;Le Lombard;Alfa - eerste wapenfeiten;Herzet|Queireix
+1;De favoriete;Dargaud;Djinn;Miralles|Dufaux
+2;De dertig belletjes;Dargaud;Djinn;Dufaux|Miralles
+3;De tatoeage;Dargaud;Djinn;Miralles|Dufaux
+4;De schat;Dargaud;Djinn;Dufaux|Miralles
+5;Afrika;Dargaud;Djinn;Miralles|Dufaux
+6;De zwarte parel;Dargaud;Djinn;Dufaux|Miralles
+7;Pipiktu;Dargaud;Djinn;Miralles|Dufaux
+8;Onrust;Dargaud;Djinn;Dufaux|Miralles
+9;De gorillakoning;Dargaud;Djinn;Miralles|Dufaux
+10;Het paviljoen der lusten;Dargaud;Djinn;Dufaux|Miralles
+11;Een eeuwige jeugd;Dargaud;Djinn;Miralles|Dufaux
+12;Hervonden eer;Dargaud;Djinn;Dufaux|Miralles
+13;Kim Nelson;Dargaud;Djinn;Miralles|Dufaux
+1;Op het spoor van Atlantis;Dargaud;Imago Mundi;Brahy|Corbeyran|Braquelaire
+2;De schat van de diepzee;Dargaud;Imago Mundi;Braquelaire|Corbeyran|Brahy
+3;De 25e rune;Dargaud;Imago Mundi;Brahy|Corbeyran|Braquelaire
+4;De Odysseus-hypothese;Dargaud;Imago Mundi;Braquelaire|Corbeyran|Brahy
+5;Het Babel-effect;Dargaud;Imago Mundi;Brahy|Corbeyran|Braquelaire
+6;Codenaam Babylon;Dargaud;Imago Mundi;Braquelaire|Corbeyran|Brahy
+7;Natuurgeweld op Simushir;Dargaud;Imago Mundi;Brahy|Corbeyran|Braquelaire
+8;De erfenis van de Jomons;Dargaud;Imago Mundi;Braquelaire|Corbeyran|Brahy
+9;De gewonde heuvel;Dargaud;Imago Mundi;Brahy|Corbeyran|Braquelaire
+10;De tweede cirkel;Dargaud;Imago Mundi;Braquelaire|Corbeyran|Brahy
+1;De vliegen (duivelse rituelen);Casterman;De vijand;Pagliaro|Pancini|Robberecht
+2;De heks;Casterman;De vijand;Robberecht|Pancini|Pagliaro
+3;Demon;Casterman;De vijand;Pagliaro|Pancini|Robberecht
+1;Soen-Li;Arboris;Het meisje en de wind;Jung|Ryelandt
+2;Win;Arboris;Het meisje en de wind;Ryelandt|Jung
+3;Waar komt de wind vandaan ?;Arboris;Het meisje en de wind;Jung|Ryelandt
+1;Een gruwelijke symfonie;Arboris;De negen van het godshuis;Berr Nathalie|Rodolphe
+1;Het masker in de donkere muil;Blitz;Giacomo C.;Dufaux|Griffo
+2;De val van de engel;Blitz;Giacomo C.;Griffo|Dufaux
+3;De zwarte hartenvrouw;Blitz;Giacomo C.;Dufaux|Griffo
+4;Meester en knecht;Blitz;Giacomo C.;Griffo|Dufaux
+5;Liefde van een nicht;Blitz;Giacomo C.;Dufaux|Griffo
+6;De ring van de Fosca's;Blitz;Giacomo C.;Griffo|Dufaux
+7;Angelina;Glénat;Giacomo C.;Dufaux|Griffo
+8;Lelijk als de nacht;Glénat;Giacomo C.;Griffo|Dufaux
+9;Het dodelijke uur;Glénat;Giacomo C.;Dufaux|Griffo
+10;De schaduw van de toren;Glénat;Giacomo C.;Griffo|Dufaux
+11;Brieven ...;Glénat;Giacomo C.;Dufaux|Griffo
+12;Fiammina;Glénat;Giacomo C.;Griffo|Dufaux
+13;De vlucht;Glénat;Giacomo C.;Dufaux|Griffo
+14;Goudlokje;Glénat;Giacomo C.;Griffo|Dufaux
+15;Het voddenlied;Glénat;Giacomo C.;Dufaux|Griffo
+1;Jij, giftige slang ...;Glénat;Eva Medusa;Segura Antonio|Miralles
+2;Jij, de begeerte ...;Glénat;Eva Medusa;Miralles|Segura Antonio
+1;Het visioen;Casterman;Jaguar;Bosschaert|Dufaux
+2;2;Casterman;Jaguar;Dufaux|Bosschaert
+3;3;Casterman;Jaguar;Bosschaert|Dufaux
+4;Dog Mengo;Casterman;Jaguar;Dufaux|Bosschaert
+1;De vuurtoren van Alveona;Talent;Ostasis;Ouali
+2;Woelige waters;Talent;Ostasis;Ouali
+1;Lewis Anderson;Talent;Een doodgewone waanzin;Godard|Bonnet|Rossi|Mounier
+2;Ewane Nagowitch;Talent;Een doodgewone waanzin;Mounier|Rossi|Bonnet|Godard
+1;Tranen van bloed;Talent;Sofaletta;Arnoux Erik
+2;De zucht der wolven;Talent;Sofaletta;Arnoux Erik
+3;De erfenis van de hoer;Talent;Sofaletta;Arnoux Erik
+4;De tranen van de tsarina;Talent;Sofaletta;Arnoux Erik|Hé Dominique
+5;De scharlaken orde;Talent;Sofaletta;Hé Dominique|Arnoux Erik
+6;londen ... 69 Everton Cottage;Talent;Sofaletta;Arnoux Erik|Hé Dominique
+7;Om Lioubov te redden;Talent;Sofaletta;Hé Dominique|Arnoux Erik
+8;De overlevende van Ekaterinodar;Talent;Sofaletta;Arnoux Erik|Hé Dominique
+1;Eerste bedrijf;Talent;Zero  Absolu;Bec|Marazano|Reyes
+2;Tweede bedrijf;Talent;Zero  Absolu;Reyes|Marazano|Bec
+3;Derde bedrijf;Talent;Zero  Absolu;Bec|Marazano|Reyes
+1;De ontsnapten van Kanash;Talent;Littekens;Paty|Ange
+2;Het kristal van Baïn;Talent;Littekens;Ange|Paty
+1;Ochtendster;Talent;Nash;Damour|Pecau|Schelle|Rosa|Rueda
+2;Ten oosten van Eden;Talent;Nash;Rueda|Rosa|Schelle|Pecau|Damour
+3;Koningin van de Engelen;Talent;Nash;Damour|Pecau|Schelle|Rosa|Rueda
+4;Het witte broederschap;Talent;Nash;Rosa|Schelle|Pecau|Damour
+5;Het kleine volkje;Talent;Nash;Damour|Pecau|Schelle|Rosa
+6;Dreamland;Talent;Nash;Rosa|Schelle|Pecau|Damour
+7;De schaduwen;Talent;Nash;Damour|Pecau|Schelle|Rosa
+8;De oorlog van de Roden;Talent;Nash;Fabrys|Pecau|Damour
+1;Hurricane;Talent;Travis;Schelle|Quet|Rosa|Duval
+2;Operatie Minotaurus;Talent;Travis;Duval|Rosa|Quet|Schelle
+3;Chaos agent;Talent;Travis;Schelle|Quet|Rosa|Duval
+4;Protocol Oslo;Talent;Travis;Duval|Rosa|Quet|Schelle
+5;Cybernation;Talent;Travis;Schelle|Quet|Rosa|Duval
+1;Blauwe blik;Talent;Névé;Dieter|Lepage
+2;Groen Sonnelicht;Talent;Névé;Lepage|Dieter
+3;Rode passie;Talent;Névé;Dieter|Lepage
+4;Witte Nepal;Talent;Névé;Lepage|Dieter
+5;Zwarte verlangens;Talent;Névé;Dieter|Lepage
+1;Genesis;Talent;Universal war one;Bajram
+2;De vruchten van de kennis;Talent;Universal war one;Bajram
+3;Kaïn en Abel;Talent;Universal war one;Bajram
+4;De zondvloed;Talent;Universal war one;Bajram
+2;De wandelende dood;Talent;Labyrinten;Dieter|Le Tendre|Pendanx
+3;Agwe Wedo;Talent;Labyrinten;Pendanx|Le Tendre|Dieter
+4;De meesters van de Agartha;Talent;Labyrinten;Dieter|Le Tendre|Pendanx
+1;De buik van Kashoum;Talent;De Phaeton;Tarquin|Fino
+2;De laatste Titaan;Talent;De Phaeton;Fino|Tarquin
+3;De woede van Abyssaal;Talent;De Phaeton;Tarquin|Fino
+4;De typhonjager;Talent;De Phaeton;Fino|Crisse
+5;Het land van de duizend meren;Talent;De Phaeton;Crisse|Fino
+6;De rode ochtend boven Medianos;Talent;De Phaeton;Fino|Crisse
+8;Het complot;Talent;De Phaeton;Fino|Plongeon
+9;De Abysseense koningin;Talent;De Phaeton;Plongeon|Fino
+1;De zoutbloem;Talent;Vuurboot;Heloret|Gibelin
+2;Ahez;Talent;Vuurboot;Gibelin|Heloret
+2;Voorgevoel;Talent;Meesters van het spel;Charlet|Corbeyran
+3;Baarmoeder;Talent;Meesters van het spel;Corbeyran|Charlet
+NULL;De 4de macht;Talent;Collectie 500;Gimenez Juan
+1;De spookbaron;Talent;Arcana;Campoy|Pignault|Pecau|Rabarot
+1;Planeet Dakoï;Talent;Kookaburra;Crisse
+2;Sektor WBH3;Talent;Kookaburra;Crisse
+3;Project Equinox;Talent;Kookaburra;Crisse
+4;Systeem Ragnarok;Talent;Kookaburra;Crisse|Mitric
+2;Taman Kha;Talent;Kookaburra universe;Crisse|Paty|Ange
+1;De ogen van Tracy Night;Talent;Celadon run;Arnoux Erik|Klimos
+2;Vlinderwoede;Talent;Celadon run;Brichau|Arnoux Erik
+4;Extreme prejudice;Talent;Celadon run;Arnoux Erik|Queireix
+23;Kuifje en de Picaro's;Casterman;Kuifje;Hergé
+1;Denk maar aan Enola Gay ...;Dupuis;Jessica Blandy;Dufaux|Renaud
+2;Het huis van Dr Zack;Dupuis;Jessica Blandy;Renaud|Dufaux
+3;De duivel bij dageraad;Dupuis;Jessica Blandy;Dufaux|Renaud
+4;De laatste blues;Dupuis;Jessica Blandy;Renaud|Dufaux
+5;Vuurvreter;Dupuis;Jessica Blandy;Dufaux|Renaud
+6;Het meisje van Ipanema;Dupuis;Jessica Blandy;Renaud|Dufaux
+7;Antwoord, stervende ...;Dupuis;Jessica Blandy;Dufaux|Renaud
+8;Zonder wroeging, zonder spijt ...;Dupuis;Jessica Blandy;Renaud|Dufaux
+9;Satan, mijn broeder;Dupuis;Jessica Blandy;Dufaux|Renaud
+10;Satan, mijn smart;Dupuis;Jessica Blandy;Renaud|Dufaux
+11;Trouble in Paradise;Dupuis;Jessica Blandy;Dufaux|Renaud
+12;Als een gat in het hoofd;Dupuis;Jessica Blandy;Renaud|Dufaux
+13;Een brief voor Jessica;Dupuis;Jessica Blandy;Dufaux|Renaud
+14;Cuba!;Dupuis;Jessica Blandy;Renaud|Dufaux
+15;Zoals Ginny was;Dupuis;Jessica Blandy;Dufaux|Renaud
+16;Buzzard blues;Dupuis;Jessica Blandy;Renaud|Dufaux
+17;Ik ben een moordenaar;Dupuis;Jessica Blandy;Dufaux|Renaud
+18;Het Jessica-contract;Dupuis;Jessica Blandy;Renaud|Dufaux
+19;Erotic attitude;Dupuis;Jessica Blandy;Dufaux|Renaud
+20;Mr. Robinson;Dupuis;Jessica Blandy;Renaud|Dufaux
+NULL;Het dossier;Dupuis;Jessica Blandy;Dufaux|Renaud
+1;Daddy!;Dupuis;Het pad van Jessica;Renaud|Dufaux
+2;Rood piment;Dupuis;Het pad van Jessica;Dufaux|Renaud
+21;De grens;Dupuis;Jessica Blandy;Renaud|Dufaux
+22;Blue harmonica;Dupuis;Jessica Blandy;Dufaux|Renaud
+23;Kamer 27;Dupuis;Jessica Blandy;Renaud|Dufaux
+24;De bewakers;Dupuis;Jessica Blandy;Dufaux|Renaud
+1;Dodemanshand;Dupuis;Dallas Bar;Marvano|Haldeman
+2;Als er geen hemel is;Dupuis;Dallas Bar;Haldeman|Marvano
+3;Eerste kwartier;Dupuis;Dallas Bar;Marvano|Haldeman
+4;Nieuwe maan;Dupuis;Dallas Bar;Haldeman|Marvano
+5;Anna van de 1000 dagen;Dupuis;Dallas Bar;Marvano|Haldeman
+6;Sarabande;Dupuis;Dallas Bar;Haldeman|Marvano
+7;De laatste wals;Dupuis;Dallas Bar;Marvano|Haldeman
+1;De wereld van de stad;Arboris;De cartografen;Arleston|Glaudel
+2;Het symbool van de nar;Arboris;De cartografen;Glaudel|Arleston
+3;De torens van Floovant;Arboris;De cartografen;Arleston|Glaudel
+4;Het kristal van Camerlot;Arboris;De cartografen;Glaudel|Arleston
+1;Een engel gaat heen;Dupuis;Soda;Tome|Warnant
+2;Brieven voor satan;Dupuis;Soda;Warnant|Tome
+3;Gij zult niet schieten;Dupuis;Soda;Tome|Gazzotti
+4;God stierf vanavond;Dupuis;Soda;Gazzotti|Tome
+5;Elk klooster heeft zijn kruis;Dupuis;Soda;Tome|Gazzotti
+6;Biecht in up-tempo;Dupuis;Soda;Gazzotti|Tome
+7;Sta op en sterf!;Dupuis;Soda;Tome|Gazzotti
+8;Dood in vrede;Dupuis;Soda;Gazzotti|Tome
+9;Verlos ons van het kwaad;Dupuis;Soda;Tome|Gazzotti
+10;God mag het weten;Dupuis;Soda;Gazzotti|Tome
+11;Gebeden en ballistiek;Dupuis;Soda;Tome|Gazzotti
+12;Code apocalyps;Dupuis;Soda;Gazzotti|Tome
+13;Verrijzenis;Dupuis;Soda;Tome|Verlinden Dan
+1;Theo;Blitz;De lichten van de Amalou;Wendling|Gibelin
+2;De harlekijn;Blitz;De lichten van de Amalou;Gibelin|Wendling
+3;Het gewrongen dorp;Blitz;De lichten van de Amalou;Wendling|Gibelin
+4;Goeals;Blitz;De lichten van de Amalou;Gibelin|Wendling
+5;As;Blitz;De lichten van de Amalou;Wendling|Gibelin
+1;1;Blitz;De ideeën dealer;Cossu|Berthet
+2;2;Blitz;De ideeën dealer;Berthet|Cossu
+3;3;Blitz;De ideeën dealer;Cossu|Berthet
+4;4;Blitz;De ideeën dealer;Berthet|Cossu
+1;De dochter van de violist;Arboris;El niño;Perrissin|Pavlovic
+2;Rio Guayas;Arboris;El niño;Pavlovic|Perrissin
+3;De archipel van de Badjos;Arboris;El niño;Perrissin|Pavlovic
+4;Vergeten!;Arboris;El niño;Pavlovic|Perrissin
+1;DollyMorphing;Dupuis;Yoni;Berthet|Yann
+2;Welkom in de TAZ-zone;Dupuis;Yoni;Yann|Berthet
+1;De vlucht;Le Lombard;De kronieken van Panchrysia;Ferry
+2;De dromen;Le Lombard;De kronieken van Panchrysia;Ferry|Pombal
+3;De beelden;Le Lombard;De kronieken van Panchrysia;Pombal|Ferry
+4;De koorts;Le Lombard;De kronieken van Panchrysia;Ferry|Pombal
+5;Het offer;Le Lombard;De kronieken van Panchrysia;Pombal|Ferry
+1;1;Dargaud;Over de grenzen van de tijd ...;Pont Olivier|Abolin Georges
+2;2;Dargaud;Over de grenzen van de tijd ...;Abolin Georges|Pont Olivier
+1;Het licht van middernacht;Casterman;S.T.A.R.;Cayman|Delperdance
+2;De dageraad is niet helder;Casterman;S.T.A.R.;Delperdance|Cayman
+3;Onder de voeten, de leegte;Casterman;S.T.A.R.;Cayman|Delperdance
+4;Als een gekluisterd paard;Casterman;S.T.A.R.;Delperdance|Cayman
+5;Nanotechs;Casterman;S.T.A.R.;Cayman|Delperdance
+1;Na zdorovje, shanjoeska!;Dupuis;Lady S.;Aymond Philippe|Van Hamme Jean
+2;Op je gezondheid, Suzie;Dupuis;Lady S.;Van Hamme Jean|Aymond Philippe
+3;59° noorderbreedte;Dupuis;Lady S.;Aymond Philippe|Van Hamme Jean
+4;Wie een kuil graaft voor een ander ...;Dupuis;Lady S.;Van Hamme Jean|Aymond Philippe
+5;Een mol in Washington;Dupuis;Lady S.;Aymond Philippe|Van Hamme Jean
+6;Saudade;Dupuis;Lady S.;Van Hamme Jean|Aymond Philippe
+7;Een lange seconde;Dupuis;Lady S.;Aymond Philippe|Van Hamme Jean
+8;Staatsraison;Dupuis;Lady S.;Van Hamme Jean|Aymond Philippe
+10;DNA;Dupuis;Lady S.;Aymond Philippe
+12;Krachtsverhoudingen;Dupuis;Lady S.;Aymond Philippe
+13;De judaskus;Dupuis;Lady S.;Aymond Philippe
+1;De aardse delegatie;Dargaud;Mayam;Desberg|Koller
+2;De tranen van de woestijn;Dargaud;Mayam;Koller|Desberg
+1;Sunsit-city;Arboris;Indigo;Schulz Dirk|Feldhoff Robert
+2;Yellowsam;Arboris;Indigo;Feldhoff Robert|Schulz Dirk
+3;In de rode oceaan;Arboris;Indigo;Schulz Dirk|Feldhoff Robert
+4;De grote overstroming;Arboris;Indigo;Feldhoff Robert|Schulz Dirk
+5;In het land van de dode Shayra;Arboris;Indigo;Schulz Dirk|Feldhoff Robert
+6;Fast Machine;Arboris;Indigo;Feldhoff Robert|Schulz Dirk
+7;De jacht op Fast Machine;Arboris;Indigo;Schulz Dirk|Feldhoff Robert
+1;Juffrouw H;Casterman;De bodem van de wereld;Falque|Corbeyran
+2;Meneer P;Casterman;De bodem van de wereld;Corbeyran|Falque
+3;Basiel M;Casterman;De bodem van de wereld;Falque|Corbeyran
+1;Gaël;Dargaud;Kabbala;Charlet
+2;Carole;Dargaud;Kabbala;Charlet
+1;Dirlijk dodelijk;Glénat;Chelsy;Joris Eric|Dufaux
+2;Stillevend;Glénat;Chelsy;Dufaux|Joris Eric
+0;De verzamelaar;Arboris;Konvooi;Buchet|Morvan
+1;In vuur en vlam;Arboris;Konvooi;Morvan|Buchet
+2;De privé-verzameling;Arboris;Konvooi;Buchet|Morvan
+3;Het raderwerk;Arboris;Konvooi;Morvan|Buchet
+4;Het symbool van de demonen;Arboris;Konvooi;Buchet|Morvan
+5;5;Arboris;Konvooi;Morvan|Buchet
+6;List en bedrog;Arboris;Konvooi;Buchet|Morvan
+7;Q.H.I.;Arboris;Konvooi;Morvan|Buchet
+8;De menselijke natuur;Arboris;Konvooi;Buchet|Morvan
+10;Terugslag;Arboris;Konvooi;Morvan|Buchet
+11;De zwevende wereld;Arboris;Konvooi;Buchet|Morvan
+1;Poolijs;Toog;Collectie grand cru;Gaultier|Ricard
+1;Gloriande Van Themines;Toog;Collectie rood;Croci
+1;Het cotact;Casterman;Het contact;Maury|Robberecht
+1;De geheime tuin;Dargaud;De danseres van de tijd;Jung|Illona|Jee-Yun
+2;Zoë's noodlot;Blitz;De verlichte markiezin;Lax|Cothias
+3;De glimlach van de gehangene;Blitz;De verlichte markiezin;Cothias|Lax
+4;Het zwaard en de weegschaal;Blitz;De verlichte markiezin;Lax|Cothias
+6;Aanval;Le Lombard;Capricornus;Andreas
+7;De blauwe draak;Le Lombard;Capricornus;Andreas
+8;Tunnel;Le Lombard;Capricornus;Andreas
+9;De doorgang;Le Lombard;Capricornus;Andreas
+10;De Chinezen;Le Lombard;Capricornus;Andreas
+1;Kim;Dupuis;Requiem;Matteo|Zidrou
+2;Alicia;Dupuis;Requiem;Zidrou|Matteo
+4;4;Standaard Uitgeverij;De geverniste vernepelingskes;Urbanus|Bosschaert
+1;1;Standaard Uitgeverij;De geverniste vernepelingskes;Bosschaert|Urbanus
+2;2;Standaard Uitgeverij;De geverniste vernepelingskes;Urbanus|Bosschaert
+3;3;Standaard Uitgeverij;De geverniste vernepelingskes;Bosschaert|Urbanus
+5;5;Standaard Uitgeverij;De geverniste vernepelingskes;Urbanus|Bosschaert
+6;6;Standaard Uitgeverij;De geverniste vernepelingskes;Bosschaert|Urbanus
+7;7;Standaard Uitgeverij;De geverniste vernepelingskes;Urbanus|Bosschaert
+1;Hazenjacht;Arboris;Anna Stein;Putzker Ronald|Brödl Gûnter
+2;Hotel paranoia;Arboris;Anna Stein;Brödl Gûnter|Putzker Ronald
+3;De laatste alpengloed;Arboris;Anna Stein;Putzker Ronald|Brödl Gûnter
+1;Zo bleek als de dood;Casterman;Wilson;Fahrer|Trillo
+2;Killer;Casterman;Wilson;Trillo|Fahrer
+3;Berlijn;Casterman;Wilson;Fahrer|Trillo
+1;De dodende schaduw;Dupuis;Jerome K. Jerome Bloks;Dodier
+2;De papieren droom;Dupuis;Jerome K. Jerome Bloks;Dodier|Makyo|Le Tendre
+3;Op leven en dood;Dupuis;Jerome K. Jerome Bloks;Makyo|Dodier
+4;De schaduw van het verleden;Dupuis;Jerome K. Jerome Bloks;Dodier|Makyo
+5;De regel van drie;Dupuis;Jerome K. Jerome Bloks;Makyo|Dodier
+6;Zelda;Dupuis;Jerome K. Jerome Bloks;Dodier
+7;Vol pension;Dupuis;Jerome K. Jerome Bloks;Dodier
+8;In de naam van de vader;Dupuis;Jerome K. Jerome Bloks;Dodier
+9;Niet thuis;Dupuis;Jerome K. Jerome Bloks;Dodier
+10;Een baby op de vlucht;Dupuis;Jerome K. Jerome Bloks;Dodier
+11;Het hart rechts;Dupuis;Jerome K. Jerome Bloks;Dodier
+12;De schuilplaats;Dupuis;Jerome K. Jerome Bloks;Dodier
+13;Het pact;Dupuis;Jerome K. Jerome Bloks;Dodier
+14;Een gekooid beest;Dupuis;Jerome K. Jerome Bloks;Dodier
+15;De gravin;Dupuis;Jerome K. Jerome Bloks;Dodier
+16;De brief;Dupuis;Jerome K. Jerome Bloks;Dodier
+17;De marionet;Dupuis;Jerome K. Jerome Bloks;Dodier
+18;Een stukje paradijs;Dupuis;Jerome K. Jerome Bloks;Dodier
+19;Verkeerd verbonden;Dupuis;Jerome K. Jerome Bloks;Dodier
+20;Einde contract;Dupuis;Jerome K. Jerome Bloks;Dodier
+21;Vluchtmisdrijf;Dupuis;Jerome K. Jerome Bloks;Dodier
+22;Mathias;Dupuis;Jerome K. Jerome Bloks;Dodier
+23;Post mortem;Dupuis;Jerome K. Jerome Bloks;Dodier
+26;Het mes in de boom;Dupuis;Jerome K. Jerome Bloks;Dodier
+27;Namaak;Dupuis;Jerome K. Jerome Bloks;Dodier
+1;Duivels speelgoed;Arboris;Charly;Magda|Lapière
+2;Het verloren eiland;Arboris;Charly;Lapière|Magda
+3;Dreigende bliksem;Arboris;Charly;Magda|Lapière
+4;De valstrik;Arboris;Charly;Lapière|Magda
+5;Nachtmerries;Arboris;Charly;Magda|Lapière
+6;De moordenaar;Arboris;Charly;Lapière|Magda
+7;De onschuld;Arboris;Charly;Magda|Lapière
+8;Vuurogen;Arboris;Charly;Lapière|Magda
+9;Berichten uit vervlogen tijden;Arboris;Charly;Magda|Lapière
+1;De overlevende;Arboris;De overlevende;Gillon Paul
+2;De erfgenaam;Arboris;De overlevende;Gillon Paul
+3;De terugkomst;Arboris;De overlevende;Gillon Paul
+4;Het ultimatum;Arboris;De overlevende;Gillon Paul
+NULL;De almanak;Casterman;<geen serie>;Servais Jean-Claude
+NULL;Onschuldig;Casterman;<geen serie>;Warnauts|Raives
+NULL;Het vernuft van de grijze massa;Casterman;<geen serie>;Boucq
+NULL;Gulliveriana;Galatea;Manara;Manara Milo
+NULL;Fataal rendez-vous;Galatea;Manara;Manara Milo
+NULL;De onzichtbare man, 1;Galatea;Manara;Manara Milo
+NULL;De onzichtbare man, 2;Galatea;Manara;Manara Milo
+NULL;De metamorfose van Lucius;Galatea;Manara;Manara Milo
+NULL;Kama sutra;Galatea;Manara;Manara Milo
+10;Engel;Dupuis;Charly;Lapière|Magda
+11;Een eeuwig leven;Dupuis;Charly;Magda|Lapière
+12;Moordenaar;Dupuis;Charly;Lapière|Magda
+13;Een hel op aarde;Dupuis;Charly;Magda|Lapière
+1;Kapitein Steene;Dupuis;Theodoor Cleysters;Le Gall Frank
+2;De archipelvreter;Dupuis;Theodoor Cleysters;Le Gall Frank
+3;Marie Rechtdoorzee;Dupuis;Theodoor Cleysters;Le Gall Frank
+4;Geheimen;Dupuis;Theodoor Cleysters;Le Gall Frank
+5;De schat van de blanke radjah;Dupuis;Theodoor Cleysters;Le Gall Frank
+6;Een passagier wordt vermist;Dupuis;Theodoor Cleysters;Le Gall Frank
+7;Rozendal;Dupuis;Theodoor Cleysters;Le Gall Frank
+8;Een huis op een eiland;Dupuis;Theodoor Cleysters;Le Gall Frank
+9;Het audiëntieterras, deel 1;Dupuis;Theodoor Cleysters;Le Gall Frank
+10;Het audiëntieterras, deel 2;Dupuis;Theodoor Cleysters;Le Gall Frank
+11;November, het hele jaar lang;Dupuis;Theodoor Cleysters;Le Gall Frank
+12;Jaloezieën;Dupuis;Theodoor Cleysters;Le Gall Frank
+67;De poenschepper;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+183;De toffe tamboer;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+92;De briesende bruid;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+153;De nare varaan;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+171;Walli de walvis;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+146;De sterrenplukkers;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+116;De bronzen sleutel;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+107;De sprietatoom;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+78;De dulle griet;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+159;De Minilotten van Kokonera;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+156;Beminde Barabas;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+113;Het geheim van de gladiatoren;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+173;Het drijvende dorp;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+123;De zwarte zwaan;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+150;Het spaanse spook;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+135;De gekke gokker;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+110;De zingende zwammen;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+174;Het statige standbeeld;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+109;De wolkeneters;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+160;De bokkige bombardon;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+125;De Texasrakkers;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+133;De tuf-tuf-club;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+147;De poppenpakker;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+144;Lambiorix;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+NULL;De vergeten vallei / De lollige lakens;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+104;De wilde weldoener;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+81;De circusbaron;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+155;De poezelige poes;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+167;De zingende kaars;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+72;Jeromba de griek;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+105;De koning drinkt;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+158;De vinnige viking;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+121;De duistere diamant;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+184;De regenboogprinses;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+142;De mottenvanger;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+83;De straatridder;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+164;De raap van Rubens;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+68;Het eiland Amoras;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+127;De knokkersburcht;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+124;Het vliegende bed;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+106;De charmante koffiepot;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+176;De pompenplanters;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+143;De malle mergpijp;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+152;De bevende baobab;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+100;Ht gouden paard;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+101;De kaartendans;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+172;Het laatste dwaallicht;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+166;De maffe maniak;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+126;De windmakers;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+154;Rikki en Wiske in Chokowakije;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+151;Het ros Bazhaar;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+120;De geverniste zeerovers;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+141;Het bevroren vuur;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+132;De stierentemmer;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+84;De stemmenrover;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+209;De kwaaie kwieten;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+170;De olijke olifant;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+161;De blinkende boemerang;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+118;De gouden cirkel;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+163;De vlijtige vlinder;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+140;De zwarte madam;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+189;De belhamel-bende;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+122;De kale kapper;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+137;De ringelingschat;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+136;De bokkerijders;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+186;De rosse reus;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+69;De nerveuze Nerviërs;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+117;De toornige tjiftjaf;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+77;De apekermis;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+216;De wervelende waterzak;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+18;De woefwasserij;Standaard Uitgeverij;Nero;Sleen Marc
+16;Mama Kali;Standaard Uitgeverij;Nero;Sleen Marc
+23;De paprikanen;Standaard Uitgeverij;Nero;Sleen Marc
+12;De gouden kabouter;Standaard Uitgeverij;Nero;Sleen Marc
+93;De verdorven stad;Standaard Uitgeverij;Nero;Sleen Marc
+19;De Nerotiekers;Standaard Uitgeverij;Nero;Sleen Marc
+10;Arthur de vetvogel;Standaard Uitgeverij;Nero;Sleen Marc
+152;Leopold 5;Standaard Uitgeverij;Nero;Sleen Marc
+148;Windkracht 2000;Standaard Uitgeverij;Nero;Sleen Marc
+157;Het bio-bao-virus;Standaard Uitgeverij;Nero;Sleen Marc
+162;De bol van Timotheus;Standaard Uitgeverij;Nero;Sleen Marc
+139;Operatie Ratsjenko;Standaard Uitgeverij;Nero;Sleen Marc
+145;Het Adhemar-elixir;Standaard Uitgeverij;Nero;Sleen Marc
+153;De orde van de lange tenen;Standaard Uitgeverij;Nero;Sleen Marc
+141;Bompanero;Standaard Uitgeverij;Nero;Sleen Marc
+149;De vijfurenboom;Standaard Uitgeverij;Nero;Sleen Marc
+163;Zilveren tranen;Standaard Uitgeverij;Nero;Sleen Marc
+142;De staf van bompa;Standaard Uitgeverij;Nero;Sleen Marc
+158;Kroonprins Petoetje;Standaard Uitgeverij;Nero;Sleen Marc
+56;Het geheim van Jan Spier;Standaard Uitgeverij;Nero;Sleen Marc
+91;Koeketiene;Standaard Uitgeverij;Nero;Sleen Marc
+84;Het bierkanaal;Standaard Uitgeverij;Nero;Sleen Marc
+135;Het achtste wereldwonder;Standaard Uitgeverij;Nero;Sleen Marc
+66;De verdwenen Nero;Standaard Uitgeverij;Nero;Sleen Marc
+118;De gouden hemelkijker;Standaard Uitgeverij;Nero;Sleen Marc
+83;De zonen van Dracula;Standaard Uitgeverij;Nero;Sleen Marc
+79;De pierewaaiers;Standaard Uitgeverij;Nero;Sleen Marc
+99;Baraka;Standaard Uitgeverij;Nero;Sleen Marc
+95;Het beest zonder naam;Standaard Uitgeverij;Nero;Sleen Marc
+112;Nerorock;Standaard Uitgeverij;Nero;Sleen Marc
+128;De kolokieten;Standaard Uitgeverij;Nero;Sleen Marc
+97;Okkerdomme;Standaard Uitgeverij;Nero;Sleen Marc
+160;Wolken van vreugde;Standaard Uitgeverij;Nero;Sleen Marc
+8;De matras van Madras;Standaard Uitgeverij;Nero;Sleen Marc
+48;De paardekop;Standaard Uitgeverij;Nero;Sleen Marc
+7;De lolifanten;Standaard Uitgeverij;Nero;Sleen Marc
+124;De kroon van Elisabeth;Standaard Uitgeverij;Nero;Sleen Marc
+17;De blauwe mannen;Standaard Uitgeverij;Nero;Sleen Marc
+24;Magellaan II;Standaard Uitgeverij;Nero;Sleen Marc
+51;De blauwe walvis;Standaard Uitgeverij;Nero;Sleen Marc
+4;Aboe-Markoeb;Standaard Uitgeverij;Nero;Sleen Marc
+87;De ring van Balderic;Standaard Uitgeverij;Nero;Sleen Marc
+6;De paarse futten;Standaard Uitgeverij;Nero;Sleen Marc
+5;Het geheim van Slappe Bizon;Standaard Uitgeverij;Nero;Sleen Marc
+34;Prinses Lovely;Standaard Uitgeverij;Nero;Sleen Marc
+29;De ring van de moefti;Standaard Uitgeverij;Nero;Sleen Marc
+146;De blauwe broertjes;Standaard Uitgeverij;Nero;Sleen Marc
+9;Kouwe kwibus;Standaard Uitgeverij;Nero;Sleen Marc
+92;De teen van Salomon;Standaard Uitgeverij;Nero;Sleen Marc
+28;Iwan de verschrikkelijke;Standaard Uitgeverij;Nero;Sleen Marc
+32;Zwarte November;Standaard Uitgeverij;Nero;Sleen Marc
+82;De sprekende draak;Standaard Uitgeverij;Nero;Sleen Marc
+64;De smaragdgroene pletskop;Standaard Uitgeverij;Nero;Sleen Marc
+46;De wensring;Standaard Uitgeverij;Nero;Sleen Marc
+53;De Clo Clo clan;Standaard Uitgeverij;Nero;Sleen Marc
+41;Ottoman de veertiende;Standaard Uitgeverij;Nero;Sleen Marc
+11;De Wallabieten;Standaard Uitgeverij;Nero;Sleen Marc
+13;Baringo;Standaard Uitgeverij;Nero;Sleen Marc
+59;De kat van Katmandoe;Standaard Uitgeverij;Nero;Sleen Marc
+73;Het spook van Zoetendaal;Standaard Uitgeverij;Nero;Sleen Marc
+75;Het gouden hart;Standaard Uitgeverij;Nero;Sleen Marc
+54;De wraak van grote Clo;Standaard Uitgeverij;Nero;Sleen Marc
+42;Het kwade oog;Standaard Uitgeverij;Nero;Sleen Marc
+20;De dolle dinas;Standaard Uitgeverij;Nero;Sleen Marc
+1;De zoon van Nero;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+2;De groene patreel;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+3;De krabbekokers;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+4;De kille man Djaro;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+5;De juweleneter;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+6;Het zevende spuitje;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+7;De kromme cobra;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+8;De Nerovingers;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+9;De vliegende handschoen;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+10;De spekschieter;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+11;De witte parel;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+12;Het ei van October;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+13;De ijzeren kolonel;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+14;De negen peperbollen;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+15;Het geheim van Bekkendoen;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+16;De granaatslikker;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+17;De driedubbelgestreepte;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+18;De pijpeplakkers;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+19;Operatie koekoek;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+20;Kangoeroe-eiland;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+21;Het lodderhoofd;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+22;De brollebril;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+23;De ark van Nero;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+25;Het zeespook;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+26;De brief aan Nasser;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+27;De pax-apostel;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+28;Het knalgele koffertje;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+30;Het wonderwolkje;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+31;De draak van Halfzeven;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+33;De x-bom;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+34;Het B-gevaar;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+35;De zwarte voeten;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+36;Het vredesoffensief van Nero;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+37;De wortelschieters;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+38;Pol de pijpegeest;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+39;Beo de verschrikkelijke;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+40;De bronnen van Sing-Song Li;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+41;De bende van de zwarte kous;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+42;De ring van Petatje;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+43;De hoorn des overvloeds;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+45;Moea Papoea;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+46;De hoed van Geeraard de Duivel;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+47;De erfenis van Nero;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+48;De juwelen van Gaga-Pan;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+49;De blauwe toekan;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+50;De man met het gouden hoofd;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+51;Het geheim van Matsuoka;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+52;De rode keizer;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+53;De Lowie Treizekast;Drukkerij Het Volk;Nero (zwart-wit);Sleen Marc
+8;Twee bastaards;Le Lombard;De werelden van Thorgal - De jonge jaren;Surzhenko Roman|Yann
+178;De stoute steenezel;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+76;De ijzeren schelvis;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+75;Het mini mierennest;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+91;De speelgoedzaaier;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+112;De groene splinter;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+99;De kwakstralen;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+177;De adellijke ark;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+94;De sissende sampan;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+111;De schat van Beersel;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+130;De steensnoepers;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+89;De dolle musketiers;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+162;De gouden locomotief;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+103;De klankentapper;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+114;De Tartaarse helm;Standaard Uitgeverij;Suske en Wiske;"Vandersteen Willy "
+1;Uma;Dargaud;Karaat;Yann|Meynet
+2;Mira;Dargaud;Karaat;Meynet|Yann
+3;De diamant van Abraham;Dargaud;Karaat;Yann|Meynet
+4;De put der duisternis;Dargaud;Karaat;Meynet|Yann
+5;De zingende wasrol;Dargaud;Karaat;Yann|Meynet
+6;De doodskist van ijs;Dargaud;Karaat;Meynet|Yann
+1;Ante genesem;Arboris;Prophet;Dorrison Xavier|Lauffray Mathieu
+2;Infernum in terra;Arboris;Prophet;Lauffray Mathieu
+1;Verloren vrede;Arboris;Een nieuw begin;Marvano|Haldeman
+2;Exodus;Arboris;Een nieuw begin;Haldeman|Marvano
+3;Openbaring;Arboris;Een nieuw begin;Marvano|Haldeman
+1;Atomium-express;Dargaud;Nico;Berthet|Duval
+2;Operatie Caraïben;Dargaud;Nico;Duval|Berthet
+9;Gif;Dargaud;Pin-up;Berthet|Yann
+5;Colonel Abel;Dargaud;Pin-up;Yann|Berthet
+1;deel 1;Casterman;Acqua alta;Schmitt Daria
+2;deel 2;Casterman;Acqua alta;Schmitt Daria
+1;Wegen in de mist;Casterman;India dreams;Maryse|Charles J.F.
+2;Wanneer de moeson terugkomt;Casterman;India dreams;Charles J.F.|Maryse
+3;In de schaduw van de bougainvilles;Casterman;India dreams;Maryse|Charles J.F.
+4;Er is niets in Darjeeling;Casterman;India dreams;Charles J.F.|Maryse
+1;Hugo;Lesaffre;Driften;Malka|Defali|Corbeyran
+2;Camille;Lesaffre;Driften;Corbeyran|Defali|Malka
+1;Het begin en het einde;Oog & blik;Replay;Sala|Zentner
+2;Vol en leeg;Oog & blik;Replay;Zentner|Sala
+NULL;Afrika;Le Lombard;<geen serie>;Hermann
+NULL;Vrij spel;Casterman;<geen serie>;Delperdange|Cayman
+NULL;Morro Bay;Casterman;<geen serie>;Boccar|Cornette
+NULL;Vincent en Van Gogh;Silvester;<geen serie>;Smudja Gradimir
+1;Eliska;Blitz;Rood gedicht;Savey|Wachs
+2;Harteloos;Dupuis;God;Karl T.|Marie
+2;De held;Casterman;Cycloop;Matz|Jacamon
+3;De rebel;Casterman;Cycloop;De Meyere|Matz
+1;De Ampu's;Talent;Eden;Poudat|Fino
+2;Error;Talent;Eden;Fino|Poudat
+3;De moordenares;Talent;Eden;Poudat|Fino
+1;La Isabella;Le Lombard;Jakob Kayne;Montes|Guerrero|Runberg
+3;Bugatti's geheim;Blitz;Samba Bugatti;Dufaux|Griffo
+2;Monkey-rock;Blitz;Samba Bugatti;Griffo|Dufaux
+6;Patriot;Blitz;Timon Van De Velden;Bardet|Klimos
+3;Sterk als het gras;Blitz;Zoeloeland;Ramaïoli|Durand
+2;Zwart als de hel;Blitz;Zoeloeland;Durand|Ramaïoli
+NULL;Waarom zijn er geen ridders meer ?;Prestige;<geen serie>;Domingues Horacio|Trillo
+3;Geweld en verlangen;Dupuis;Het pad van Jessica;Dufaux|Renaud
+3;De megophias;Blitz;Aquablue;Cailleteau|Vatine
+4;Zwart koraal;Blitz;Aquablue;Vatine|Cailleteau
+5;Project Atalanta;Blitz;Aquablue;Cailleteau|Tota
+6;De witte ster - eerste deel;Blitz;Aquablue;Tota|Cailleteau
+7;De witte ster  - tweede deel;Blitz;Aquablue;Cailleteau|Tota
+8;Stichting Aquablue;Blitz;Aquablue;Tota|Cailleteau
+9;De totem van de Cynos;Blitz;Aquablue;Cailleteau|Tota
+10;De kus van Arakh;Daedalus;Aquablue;Siro|Cailleteau
+11;Het fort van zand;Daedalus;Aquablue;Cailleteau|Siro
+12;Terug naar de bron;Daedalus;Aquablue;Hautière|Reno
+13;Het hoge noorden;Daedalus;Aquablue;Reno|Hautière
+14;Standard-island;Daedalus;Aquablue;Hautière|Reno
+15;Gan Eden;Daedalus;Aquablue;Reno|Hautière
+16;Rakahanga!;Daedalus;Aquablue;Hautière|Reno
+1;De toren van kennis;Blitz;De zandmemoor;Dethan Isabelle
+2;Morganastad;Blitz;De zandmemoor;Dethan Isabelle
+1;Bonnie Tom - eerste deel;Blitz;Het kleine volkje;Dubois|Duval
+2;Bonnie Tom - tweede deel;Blitz;Het kleine volkje;Duval|Dubois
+3;Puckwoodgennies I;Blitz;Het kleine volkje;Dubois|Merlet Isabelle|Duval
+1;Het kind van de zee;Blitz;Finkel;Gine|Convard
+2;Oceaan;Blitz;Finkel;Convard|Gine
+3;Genos;Blitz;Finkel;Gine|Convard
+4;Het geheim;Blitz;Finkel;Convard|Gine
+1;De gele stad;Blitz;Sky doll;Barbucci|Canepa
+2;Aqua;Blitz;Sky doll;Canepa|Barbucci
+1;Rochecardon;Blitz;Stadsvertellingen;Berlion
+2;Rochecardon II;Blitz;Stadsvertellingen;Berlion
+3;Rochecardon III;Blitz;Stadsvertellingen;Berlion
+1;Denver;Blitz;Nova genesis;Chabbert|Boisserie
+2;Grand canyon;Blitz;Nova genesis;Boisserie|Chabbert
+1;Psybom;Blitz;Siloë;Le Tendre|Servain
+1;De waternimf;Blitz;Sirene;Ange|Varanda
+1;Hopeloos;Blitz;Witness 4;Millien|Arnoux Erik
+1;De gele kap;Blitz;Septentryon;Houot
+2;Angousalem;Blitz;Septentryon;Houot
+1;Opus O;Blitz;Phenomenum;Kaminka|Vedrines
+2;Opus I : de vorige toekomst;Blitz;Phenomenum;Vedrines|Kaminka
+2;Tweede kans;Blitz;Mobilis;Durieux|Andreas
+3;Minutieuze manipulaties;Blitz;Mobilis;Andreas|Durieux
+1;Wrakkenpiraten;Blitz;Golden City;Pecqueur|Malfin|Schelle|Rosa
+2;Banks contra Banks;Blitz;Golden City;Rosa|Schelle|Malfin|Pecqueur
+3;Poolnacht;Blitz;Golden City;Pecqueur|Malfin|Schelle|Rosa
+4;Goldy;Blitz;Golden City;Rosa|Schelle|Malfin|Pecqueur
+5;Het dossier Harrison;Blitz;Golden City;Pecqueur|Malfin|Schelle|Rosa
+1;Het raadsel van de Luna;Blitz;Aleph;Dim D.|Paitreau|Istin
+2;De negende draak;Blitz;Aleph;Istin|Paitreau|Dim D.
+3;De engel van het licht;Blitz;Aleph;Dim D.|Paitreau|Istin
+1;Afrodite;Blitz;Hersenschimmen;Béhé|Mosdi
+1;Herinner je;Le Lombard;Grens;Marchal|Rodolphe
+NULL;De geprogrammeerde voorvader  - 1. De tijd van het ontwaken;Talent;Transgenesis;Ploy|Loïc
+NULL;Fides - Opus matrice;Talent;Transgenesis;Loïc|Ploy|Pagot
+NULL;De stilte van de aarde - Visionary reality;Talent;Transgenesis;Ploy|Damour
+1;Physilia;Blitz;De aquanauten;Mallié|Parnotte|Rieu
+2;De container;Blitz;De aquanauten;Rieu|Parnotte|Mallié
+3;Het verbond;Blitz;De aquanauten;Mallié|Parnotte|Rieu
+1;On air;Dargaud;Reality show;Porcel Francis|Morvan
+2;Direct live;Dargaud;Reality show;Morvan|Porcel Francis
+3;De laatste zang van de malaterres;Casterman;De gezellen van de schemering;Bourgeon
+1;De betovering van het nevelwoud;Casterman;De gezellen van de schemering;Bourgeon
+2;De vale ogen van de moerasstad;Casterman;De gezellen van de schemering;Bourgeon
+1;De bron en de sonde;Casterman;De cyclus van Cyan;Bourgeon|Lacroix
+2;Zes seizoenen op Ilo;Casterman;De cyclus van Cyan;Lacroix|Bourgeon
+3;Aïeïa van Aldaal;Casterman;De cyclus van Cyan;Bourgeon|Lacroix
+4;De kleuren van Marcade;Casterman;De cyclus van Cyan;Lacroix|Bourgeon
+1;Schot in het duister;Casterman;De killer;Jacamon|Matz
+2;De valstrik;Casterman;De killer;Matz|Jacamon
+3;In het krijt;Casterman;De killer;Jacamon|Matz
+4;Bloedlink;Casterman;De killer;Matz|Jacamon
+5;Met de dood in het hart;Casterman;De killer;Jacamon|Matz
+6;Mdus vivendi;Casterman;De killer;Matz|Jacamon
+8;De natuurlijke orde der dingen;Casterman;De killer;Jacamon|Matz
+9;Oneerlijke concurrentie;Casterman;De killer;Matz|Jacamon
+10;Hart voor het werk;Casterman;De killer;Jacamon|Matz
+11;Volharding;Casterman;De killer;Matz|Jacamon
+12;De hand die voedt;Casterman;De killer;Jacamon|Matz
+13;Vluchtlijnen;Casterman;De killer;Matz|Jacamon
+1;Alles is een vrouwengeschiedenis;Dupuis;Luka;Lapière|Mezzomo
+2;Angst is de kleur van de dood;Dupuis;Luka;Mezzomo|Lapière
+3;En ik haat;Dupuis;Luka;Lapière|Mezzomo
+4;Verknalde levens, verloren zielen;Dupuis;Luka;Mezzomo|Lapière
+5;Een kogel in het hoofd;Dupuis;Luka;Lapière|Mezzomo
+6;Eén zwaluw maakt nog geen zomer;Dupuis;Luka;Mezzomo|Lapière
+7;De vloedgolf;Dupuis;Luka;Lapière|Mezzomo
+8;De strategie van de krab;Dupuis;Luka;Mezzomo|Lapière
+9;Voetbal is oorlog;Dupuis;Luka;Lapière|Mezzomo
+10;Defensiegeheim;Dupuis;Luka;Mezzomo|Lapière
+1;De huid der schaduwen;Dupuis;HAND;Pelot|Vegliona
+2;Het roestwoud;Dupuis;HAND;Vegliona|Pelot
+3;De rattenmessias;Dupuis;HAND;Pelot|Vegliona
+64;Operatie mirage;Graton;Michel Vaillant;Graton Philippe|Graton Jean
+20;Rodeo op 2 wielen;Le Lombard;Michel Vaillant;Graton Jean
+11;Paniek in Indianapolis;Le Lombard;Michel Vaillant;Graton Jean
+4;De vallei van de angst;Dargaud;Trent;Rodolphe|Leo
+3;De outcast;Dargaud;Trent;Leo|Rodolphe
+1;De dode man;Dargaud;Trent;Rodolphe|Leo
+4;De levende brug;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+5;De rode herberg;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+1;Mysterie op Rozendael;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+8;De weerwolf;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+51;Verschijningen;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+63;De vondelinge;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+2;Het opgejaagde weeskind;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+7;De toverlantaarn;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+10;De kwade hand;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+96;De tinnen soldaatjes;Standaard Uitgeverij;Robert en Bertrand;"Vandersteen Willy "
+8;De dagge van Gwythan;Oberon;Olac de gladiator;Giovannini Ruggero
+36;De blauwe engelen;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+40;Ghost queen;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+37;De piloot met het leren masker;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+27;De vliegende tijgers schieten te hulp;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+1;De jappen vallen aan;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+2;De geheimen van Midway;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+4;De vliegende tijgers;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+7;De smokkelaars van de Rode Zee;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+12;De onbemande vliegtuigen;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+13;Een vliegtuig wordt vermist;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+14;Patroelje bij dageraad;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+18;Aanval op Malakka;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+19;De tijger van  Malakka;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+21;Een prototype is verdwenen;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+23;Vlucht naar de verloren vallei;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+24;Proefmodel FX-13;Dupuis;Buck Danny;Charlier J.M.|Hubinon V.
+6;Aanval in Birma;Dupuis;Buck Danny;Hubinon V.|Charlier J.M.
+2;De steen der koningen;Oberon;Olac de gladiator;Giovannini Ruggero|Lawrence Don
+3;Het verraad;Oberon;Olac de gladiator;Lawrence Don|Roume Carlos
+82;Karpax de stalen man;Standaard Uitgeverij;De rode ridder;"Vandersteen Willy "
+4;De parel van Bagdad;Standaard Uitgeverij;De rode ridder;"Vandersteen Willy "
+161;Catacomben;Standaard Uitgeverij;De rode ridder;"Vandersteen Willy "
+2;The kid;Dargaud;Trent;Rodolphe|Leo
+17;Olie op de renbaan;Le Lombard;Michel Vaillant;Graton Jean
+18;5 meisjes in de race;Le Lombard;Michel Vaillant;Graton Jean
+4;De tiara van Oribal;Casterman;Alex;Martin Jacques
+18;Vercingetorix;Casterman;Alex;Martin Jacques
+12;De flaterbende;Dupuis;Guust;Franquin
+11;Flaters, floppen en flouzen;Dupuis;Guust;Franquin
+3;Flagrante flappende flaters;Dupuis;Guust;Franquin|Jidéhem
+13;Flater verdient een optater;Dupuis;Guust;Franquin
+9;Het geval Flater;Dupuis;Guust;Franquin
+14;De Flater-saga;Dupuis;Guust;Franquin
+8;Flaters van formaat;Dupuis;Guust;Franquin
+7;Van flaters gesproken ...;Dupuis;Guust;Franquin
+6;Flaters schade;Dupuis;Guust;Franquin
+10;Die reuze flater;Dupuis;Guust;Franquin
+1;Flaterfestijn flaterfeest - flaters als water;Dupuis;Guust;Franquin|Jidéhem
+2;Daverende flaters te koop;Dupuis;Guust;Jidéhem|Franquin
+5;Het zware verleden van Guust Flater;Dupuis;Guust;Franquin|Jidéhem
+4;Heet van de flater;Dupuis;Guust;Jidéhem|Franquin
+15;Van flaters tot kraters;Marsu productions;Guust;Franquin
+19;Guust 19;Marsu productions;Guust;Franquin
+1;De hoorn van Ramor;Dargaud;Op zoek naar de tijdvogel;Loisel|Le Tendre
+2;De tempel der vergetelheid;Dargaud;Op zoek naar de tijdvogel;Le Tendre|Loisel
+3;De jager;Dargaud;Op zoek naar de tijdvogel;Loisel|Le Tendre
+4;Het ei van de duisternis;Dargaud;Op zoek naar de tijdvogel;Le Tendre|Loisel
+5;Vriend Javin;Dargaud;Op zoek naar de tijdvogel;Loisel|Lidwine|Le Tendre
+7;De weg van de jager;Dargaud;Op zoek naar de tijdvogel;Le Tendre|Mallié|Loisel
+1;Eerste reeks;Arboris;Kronieken van de onlogica;Prado Miguel Angel
+2;Tweede reeks;Arboris;Kronieken van de onlogica;Prado Miguel Angel
+3;Derde reeks;Arboris;Kronieken van de onlogica;Prado Miguel Angel
+1;De kleuren van het spectrum;Dargaud;Apocalypse Mania;Bollée|Aymond Philippe
+2;Experiment IV;Dargaud;Apocalypse Mania;Aymond Philippe|Bollée
+3;Global underground;Dargaud;Apocalypse Mania;Bollée|Aymond Philippe
+4;Trance fusion;Dargaud;Apocalypse Mania;Aymond Philippe|Bollée
+5;Cosmose;Dargaud;Apocalypse Mania;Bollée|Aymond Philippe
+6;Het kleine meisje Bois-Caïman - Boek 1;Lesaffre;De kinderen van de wind;Bourgeon
+7;Het kleine meisje Bois-Caïman - Boek 2;Lesaffre;De kinderen van de wind;Bourgeon
+5;Het ebbehout;Casterman;De kinderen van de wind;Bourgeon
+4;Het uur van de slang;Casterman;De kinderen van de wind;Bourgeon
+3;Handelspost Juda;Casterman;De kinderen van de wind;Bourgeon
+2;Het gevangenisschip;Casterman;De kinderen van de wind;Bourgeon
+1;Het meisje in het want;Casterman;De kinderen van de wind;Bourgeon
+1;Soldaat Mandella;Dupuis;De eeuwige oorlog;Marvano|Haldeman
+2;Luitenant Mandella;Dupuis;De eeuwige oorlog;Haldeman|Marvano
+3;Majoor Mandella;Dupuis;De eeuwige oorlog;Marvano|Haldeman
+1;Mister Black 1;Dupuis;Mister Black;Dufaux|Griffo
+2;Mister Black 2;Dupuis;Mister Black;Griffo|Dufaux
+NULL;De pechvogel;Dupuis;<geen serie>;Le Tendre|Dethorey
+1;Deel 1;Dupuis;Godin wit, godin zwart;Servais Jean-Claude
+2;Deel 2;Dupuis;Godin wit, godin zwart;Servais Jean-Claude
+NULL;De sluitsteen;Casterman;Maankop de golventemmer;Boucq|Jodorowsky
+NULL;De onzichtbare kathedraal;Casterman;Maankop de golventemmer;Jodorowsky|Boucq
+NULL;Het ei van de ziel;Casterman;Maankop de golventemmer;Boucq|Jodorowsky
+5;De gangen van de tussentijd;Lesaffre;De cyclus van Cyan;Bourgeon|Lacroix
+NULL;De salt's van het grauw;Casterman;<geen serie>;Prado Miguelanxo
+NULL;Blindemannetje;Casterman;Blindemannetje;Cabanes
+NULL;Maxou tegen de atleet;Casterman;Blindemannetje;Cabanes
+NULL;Manuel Montano - De bron van de nacht;Casterman;<geen serie>;Luna Fernando|Prado Miguelanxo
+NULL;Zhong Guo;Dupuis;<geen serie>;Hermann|Yves H.
+NULL;De onzichtbare grens - Deel 1;Casterman;De duistere steden;Schuiten|Peeters
+NULL;De onzichtbare grens - Deel 2;Casterman;De duistere steden;Peeters|Schuiten
+1;The best of de kat;Casterman;De kat (Casterman);Geluck Philippe
+2;Het bijna beste van de kat;Casterman;De kat (Casterman);Geluck Philippe
+3;De kat op z'n best;Casterman;De kat (Casterman);Geluck Philippe
+4;De kat beter dan best !;Casterman;De kat (Casterman);Geluck Philippe
+5;De kat, 1999-9999;Casterman;De kat (Casterman);Geluck Philippe
+6;De kat weet het beter;Casterman;De kat (Casterman);Geluck Philippe
+7;De kat is tevreden;Casterman;De kat (Casterman);Geluck Philippe
+8;De zaak de kat;Casterman;De kat (Casterman);Geluck Philippe
+9;Alles kats met u ?;Casterman;De kat (Casterman);Geluck Philippe
+10;De kat slaat weer toe;Casterman;De kat (Casterman);Geluck Philippe
+1;De negen levens van de kat;Ballon media;De kat (Ballon);Geluck Philippe
+2;De kat open en bloot;Ballon media;De kat (Ballon);Geluck Philippe
+3;Op en top de kat;Ballon media;De kat (Ballon);Geluck Philippe
+4;De kat gevat;Ballon media;De kat (Ballon);Geluck Philippe
+5;Van de kat op de tak;Ballon media;De kat (Ballon);Geluck Philippe
+5;vijfde boek V;Dargaud;De adelaars van Rome;Marini
+4;Vierde boek IV;Dargaud;De adelaars van Rome;Marini
+NULL;Op het spoor van POM;'t Mannekesblad;Piet Pienter en Bert Bibber;NULL
+1;Koud zweet;Talent;Cryozone;NULL
+NULL;Het vredeswapen;'t Mannekesblad;Piet Pienter en Bert Bibber;NULL
+2;Syndrome Z;Talent;Cryozone;NULL
+NULL;Het gestolen vredeswapen;'t Mannekesblad;Piet Pienter en Bert Bibber;NULL
