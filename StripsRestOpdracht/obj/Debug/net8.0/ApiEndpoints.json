@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "StripsRest.Controllers.AuteursController",
+    "Method": "GetAuteur",
+    "RelativePath": "api/Auteurs/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripsRest.Controllers.ReeksenController",
+    "Method": "GetReeks",
+    "RelativePath": "api/Reeksen/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StripsRest.Controllers.StripsController",
     "Method": "AddStrip",
     "RelativePath": "api/Strips",
@@ -19,6 +51,59 @@
     "ContainingType": "StripsRest.Controllers.StripsController",
     "Method": "GetStrip",
     "RelativePath": "api/Strips/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripsRest.Controllers.StripsController",
+    "Method": "UpdateStrip",
+    "RelativePath": "api/Strips/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updatedStrip",
+        "Type": "StripsDL.Models.Strip",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripsRest.Controllers.StripsController",
+    "Method": "DeleteStrip",
+    "RelativePath": "api/Strips/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StripsRest.Controllers.UitgeverijenController",
+    "Method": "GetUitgeverij",
+    "RelativePath": "api/Uitgeverijen/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

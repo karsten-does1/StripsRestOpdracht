@@ -16,4 +16,10 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\StripsBL\StripsBL.csproj" />
+    <ProjectReference Include="..\StripsDL\StripsDL.csproj" />
+    <ProjectReference Include="..\StripsRestOpdracht\StripsRest.csproj" />
+  </ItemGroup>
+
 </Project>

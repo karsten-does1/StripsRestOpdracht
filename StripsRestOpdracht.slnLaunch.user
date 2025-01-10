@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "StripsRestOpdracht\\StripsRest.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "StripsClientWPFStripView\\StripsClientWPFStripView.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

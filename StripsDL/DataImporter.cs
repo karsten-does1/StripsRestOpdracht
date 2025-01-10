@@ -51,11 +51,16 @@ namespace StripsDL
                         string reeksNaam = fields[3];
                         string[] auteursNamen = fields[4].Split('|');
 
-                        var uitgeverij = _context.Uitgeverijens.FirstOrDefault(u => u.Naam == uitgeverijNaam)
-                                         ?? new Uitgeverijen { Naam = uitgeverijNaam, Adres = "Onbekend" };
-                        if (uitgeverij.Id == 0) _context.Uitgeverijens.Add(uitgeverij);
+                    var uitgeverij = _context.Uitgeverijens.FirstOrDefault(u => u.Naam == uitgeverijNaam);
 
-                        Reeksen? reeks = null;
+                    if (uitgeverij == null)
+                    {
+                   
+                        uitgeverij = new Uitgeverijen { Naam = uitgeverijNaam, Adres = "Onbekend" };
+                        _context.Uitgeverijens.Add(uitgeverij);
+                    }
+
+                    Reeksen? reeks = null;
                         if (!reeksCache.TryGetValue(reeksNaam, out reeks)) 
                         {
                             reeks = _context.Reeksens.FirstOrDefault(r => r.Naam == reeksNaam);
